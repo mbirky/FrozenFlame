@@ -1,0 +1,9 @@
+Number of achievements - unsigned int(4)
+
+For each Achievement:
+
+    size of achievement name - unsigned int(4)
+    achievement name - size of achievement name
+    size of description - unsigned int(4)
+    description - size of description
+    hasBeenAchieved - bool(1)

@@ -1,0 +1,108 @@
+Event	ID	Name			Wwise Object Path	Notes
+	117131203	Resume_Dash			\Default Work Unit\Resume_Dash	
+	127976668	Pause_PreExplosion			\Default Work Unit\Pause_PreExplosion	
+	148817996	Play_Whoosh			\Default Work Unit\Play_Whoosh	
+	180497255	Pause_FF7V			\Default Work Unit\Pause_FF7V	
+	216082806	Pause_Death			\Default Work Unit\Pause_Death	
+	302542222	Stop_Death			\Default Work Unit\Stop_Death	
+	315851375	Play_Minions			\Default Work Unit\Play_Minions	
+	352810554	Pause_Whoosh			\Default Work Unit\Pause_Whoosh	
+	377487063	Stop_Alarm			\Default Work Unit\Stop_Alarm	
+	382618487	Resume_Thump			\Default Work Unit\Resume_Thump	
+	391687360	Pause_Menu_Accept			\Default Work Unit\Pause_Menu_Accept	
+	437245419	Pause_Challenger			\Default Work Unit\Pause_Challenger	
+	452275613	Resume_Whoosh			\Default Work Unit\Resume_Whoosh	
+	452547817	Stop_All			\Default Work Unit\Stop_All	
+	540812284	Play_SwordClash			\Default Work Unit\Play_SwordClash	
+	551046304	Pause_Gameplay_Music			\Default Work Unit\Pause_Gameplay_Music	
+	559390421	Stop_Explosion			\Default Work Unit\Stop_Explosion	
+	603937113	Play_Alarm			\Default Work Unit\Play_Alarm	
+	643859299	Resume_Death			\Default Work Unit\Resume_Death	
+	727080707	Play_RangedBlast			\Default Work Unit\Play_RangedBlast	
+	822719366	Resume_WarningSound			\Default Work Unit\Resume_WarningSound	
+	890527358	Stop_MainMenu			\Default Work Unit\Stop_MainMenu	
+	1013897538	Pause_Thump			\Default Work Unit\Pause_Thump	
+	1094623274	Stop_Thump			\Default Work Unit\Stop_Thump	
+	1121252553	Stop_RangedBlast			\Default Work Unit\Stop_RangedBlast	
+	1172822028	Play_Death			\Default Work Unit\Play_Death	
+	1191497377	Play_Sword			\Default Work Unit\Play_Sword	
+	1208241493	Resume_Menu_Accept			\Default Work Unit\Resume_Menu_Accept	
+	1214047412	Stop_PreExplosion			\Default Work Unit\Stop_PreExplosion	
+	1225715575	Resume_PreExplosion			\Default Work Unit\Resume_PreExplosion	
+	1231987938	Play_Gameplay_Music			\Default Work Unit\Play_Gameplay_Music	
+	1265909510	Play_Menu_Accept			\Default Work Unit\Play_Menu_Accept	
+	1346263226	Resume_Alarm			\Default Work Unit\Resume_Alarm	
+	1363380617	Stop_WarningSound			\Default Work Unit\Stop_WarningSound	
+	1458352633	Pause_Minions			\Default Work Unit\Pause_Minions	
+	1694892268	Pause_Bloody_Stab			\Default Work Unit\Pause_Bloody_Stab	
+	1788545828	Resume_Explosion			\Default Work Unit\Resume_Explosion	
+	1798184419	Resume_Gameplay_Music			\Default Work Unit\Resume_Gameplay_Music	
+	1804397636	Stop_Bloody_Stab			\Default Work Unit\Stop_Bloody_Stab	
+	1857907297	Pause_WarningSound			\Default Work Unit\Pause_WarningSound	
+	1945221936	Play_Thump			\Default Work Unit\Play_Thump	
+	2062461618	Stop_Whoosh			\Default Work Unit\Stop_Whoosh	
+	2082220444	Resume_RangedBlast			\Default Work Unit\Resume_RangedBlast	
+	2104785276	Resume_Minions			\Default Work Unit\Resume_Minions	
+	2211787386	Play_Dash			\Default Work Unit\Play_Dash	
+	2467275901	Resume_Bloody_Stab			\Default Work Unit\Resume_Bloody_Stab	
+	2572478468	Pause_Hit1			\Default Work Unit\Pause_Hit1	
+	2572478471	Pause_Hit2			\Default Work Unit\Pause_Hit2	
+	2740886351	Pause_Alarm			\Default Work Unit\Pause_Alarm	
+	2743692796	Resume_FF7V			\Default Work Unit\Resume_FF7V	
+	2820884444	Stop_Hit1			\Default Work Unit\Stop_Hit1	
+	2820884447	Stop_Hit2			\Default Work Unit\Stop_Hit2	
+	2855285461	Play_Hit2			\Default Work Unit\Play_Hit2	
+	2855285462	Play_Hit1			\Default Work Unit\Play_Hit1	
+	2861566169	Resume_MainMenu			\Default Work Unit\Resume_MainMenu	
+	2935349074	Stop_SwordClash			\Default Work Unit\Stop_SwordClash	
+	2947044096	Resume_Challenger			\Default Work Unit\Resume_Challenger	
+	2954980868	Resume_Hit2			\Default Work Unit\Resume_Hit2	
+	2954980871	Resume_Hit1			\Default Work Unit\Resume_Hit1	
+	2998471393	Pause_RangedBlast			\Default Work Unit\Pause_RangedBlast	
+	3092403722	Pause_SwordClash			\Default Work Unit\Pause_SwordClash	
+	3215548310	Resume_Sword			\Default Work Unit\Resume_Sword	
+	3259975990	Pause_MainMenu			\Default Work Unit\Pause_MainMenu	
+	3296606572	Stop_Dash			\Default Work Unit\Stop_Dash	
+	3339427736	Stop_Menu_Accept			\Default Work Unit\Stop_Menu_Accept	
+	3383709951	Stop_FF7V			\Default Work Unit\Stop_FF7V	
+	3536547992	Stop_Gameplay_Music			\Default Work Unit\Stop_Gameplay_Music	
+	3541736557	Play_Challenger			\Default Work Unit\Play_Challenger	
+	3583968210	Play_Bloody_Stab			\Default Work Unit\Play_Bloody_Stab	
+	3738780720	Play_MainMenu			\Default Work Unit\Play_MainMenu	
+	3778853057	Stop_Minions			\Default Work Unit\Stop_Minions	
+	3848137827	Stop_Challenger			\Default Work Unit\Stop_Challenger	
+	3851477316	Pause_Dash			\Default Work Unit\Pause_Dash	
+	3870438841	Play_FF7V			\Default Work Unit\Play_FF7V	
+	3889052930	Play_PreExplosion			\Default Work Unit\Play_PreExplosion	
+	3923247931	Play_WarningSound			\Default Work Unit\Play_WarningSound	
+	4009962781	Resume_SwordClash			\Default Work Unit\Resume_SwordClash	
+	4030404899	Play_Explosion			\Default Work Unit\Play_Explosion	
+	4106520931	Pause_Sword			\Default Work Unit\Pause_Sword	
+	4226774299	Stop_Sword			\Default Work Unit\Stop_Sword	
+	4258473453	Pause_Explosion			\Default Work Unit\Pause_Explosion	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3671138082	New_Game_Parameter			\Default Work Unit\New_Game_Parameter	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	45887932	SwordClash	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\swordclash_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\SwordClash		23932
+	102142776	MainMenu	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\statscreen_ab9e423e.wem		\Actor-Mixer Hierarchy\Default Work Unit\MainMenu		6156444
+	174963416	Alarm	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\constantalarm_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Alarm		1665188
+	339104661	Hit1	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\agent_hit_beanbag_01_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hit1		22666
+	357003731	Sword	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\sword_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sword		50576
+	379725445	Dash	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\agent_jump_06_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dash		29872
+	396365415	PreExplosion	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\preexplosion_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\PreExplosion		6676
+	515233624	Gameplay_Music	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\game_play_music_03_loop_ab9e423e.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay_Music		8127840
+	530598288	Minions	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\henchmen_02_orders_01_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Minions		111816
+	544579619	Explosion	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\explosion_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Explosion		30018
+	556559408	Thump	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\punch_boxing_facehit4_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Thump		48264
+	592796156	Death	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\dx_sidekick_death_04_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Death		103412
+	606671545	WarningSound	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\warningsound_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\WarningSound		32014
+	618222213	Menu_Accept	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\menu_accept_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Menu_Accept		102742
+	674532885	RangedBlast	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\rangedblast_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\RangedBlast		48686
+	700444745	FF7V	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\ff7v_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\FF7V		525376
+	752434404	Hit2	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\agent_hit_beanbag_02_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hit2		19408
+	797349155	Challenger	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\herecomesanewchallenger_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Challenger		1295508
+	806389891	Whoosh	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\whoosh_deep01_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Whoosh		165696
+	1009669712	Bloody Stab	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\bloody stab_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bloody Stab		209728
+

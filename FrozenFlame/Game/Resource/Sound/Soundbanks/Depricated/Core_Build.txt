@@ -1,0 +1,59 @@
+Event	ID	Name			Wwise Object Path	Notes
+	117131203	Resume_Dash			\Default Work Unit\Resume_Dash	
+	148817996	Play_Whoosh			\Default Work Unit\Play_Whoosh	
+	180497255	Pause_FF7V			\Default Work Unit\Pause_FF7V	
+	216082806	Pause_Death			\Default Work Unit\Pause_Death	
+	302542222	Stop_Death			\Default Work Unit\Stop_Death	
+	315851375	Play_Minions			\Default Work Unit\Play_Minions	
+	352810554	Pause_Whoosh			\Default Work Unit\Pause_Whoosh	
+	382618487	Resume_Thump			\Default Work Unit\Resume_Thump	
+	391687360	Pause_Menu_Accept			\Default Work Unit\Pause_Menu_Accept	
+	452275613	Resume_Whoosh			\Default Work Unit\Resume_Whoosh	
+	551046304	Pause_Gameplay_Music			\Default Work Unit\Pause_Gameplay_Music	
+	643859299	Resume_Death			\Default Work Unit\Resume_Death	
+	890527358	Stop_MainMenu			\Default Work Unit\Stop_MainMenu	
+	1013897538	Pause_Thump			\Default Work Unit\Pause_Thump	
+	1094623274	Stop_Thump			\Default Work Unit\Stop_Thump	
+	1172822028	Play_Death			\Default Work Unit\Play_Death	
+	1208241493	Resume_Menu_Accept			\Default Work Unit\Resume_Menu_Accept	
+	1231987938	Play_Gameplay_Music			\Default Work Unit\Play_Gameplay_Music	
+	1265909510	Play_Menu_Accept			\Default Work Unit\Play_Menu_Accept	
+	1458352633	Pause_Minions			\Default Work Unit\Pause_Minions	
+	1798184419	Resume_Gameplay_Music			\Default Work Unit\Resume_Gameplay_Music	
+	1945221936	Play_Thump			\Default Work Unit\Play_Thump	
+	2062461618	Stop_Whoosh			\Default Work Unit\Stop_Whoosh	
+	2104785276	Resume_Minions			\Default Work Unit\Resume_Minions	
+	2211787386	Play_Dash			\Default Work Unit\Play_Dash	
+	2572478468	Pause_Hit1			\Default Work Unit\Pause_Hit1	
+	2572478471	Pause_Hit2			\Default Work Unit\Pause_Hit2	
+	2743692796	Resume_FF7V			\Default Work Unit\Resume_FF7V	
+	2820884444	Stop_Hit1			\Default Work Unit\Stop_Hit1	
+	2820884447	Stop_Hit2			\Default Work Unit\Stop_Hit2	
+	2855285461	Play_Hit2			\Default Work Unit\Play_Hit2	
+	2855285462	Play_Hit1			\Default Work Unit\Play_Hit1	
+	2861566169	Resume_MainMenu			\Default Work Unit\Resume_MainMenu	
+	2954980868	Resume_Hit2			\Default Work Unit\Resume_Hit2	
+	2954980871	Resume_Hit1			\Default Work Unit\Resume_Hit1	
+	3259975990	Pause_MainMenu			\Default Work Unit\Pause_MainMenu	
+	3296606572	Stop_Dash			\Default Work Unit\Stop_Dash	
+	3339427736	Stop_Menu_Accept			\Default Work Unit\Stop_Menu_Accept	
+	3383709951	Stop_FF7V			\Default Work Unit\Stop_FF7V	
+	3536547992	Stop_Gameplay_Music			\Default Work Unit\Stop_Gameplay_Music	
+	3738780720	Play_MainMenu			\Default Work Unit\Play_MainMenu	
+	3778853057	Stop_Minions			\Default Work Unit\Stop_Minions	
+	3851477316	Pause_Dash			\Default Work Unit\Pause_Dash	
+	3870438841	Play_FF7V			\Default Work Unit\Play_FF7V	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	102142776	MainMenu	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\statscreen_ab9e423e.wem		\Actor-Mixer Hierarchy\Default Work Unit\MainMenu		6156444
+	339104661	Hit1	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\agent_hit_beanbag_01_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hit1		22666
+	379725445	Dash	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\agent_jump_06_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dash		29872
+	515233624	Gameplay_Music	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\game_play_music_03_loop_ab9e423e.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gameplay_Music		8127840
+	530598288	Minions	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\henchmen_02_orders_01_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Minions		111816
+	556559408	Thump	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\punch_boxing_facehit4_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Thump		48264
+	592796156	Death	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\dx_sidekick_death_04_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Death		103412
+	618222213	Menu_Accept	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\menu_accept_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Menu_Accept		102742
+	700444745	FF7V	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\ff7v_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\FF7V		525376
+	752434404	Hit2	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\agent_hit_beanbag_02_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hit2		19408
+	806389891	Whoosh	C:\Users\Robert\Documents\WwiseProjects\Core Sounds\.cache\Windows\sfx\whoosh_deep01_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Whoosh		165696
+

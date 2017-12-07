@@ -1,0 +1,73 @@
+Event	ID	Name			Wwise Object Path	Notes
+	73212559	Resume_SFX_Beep			\Default Work Unit\Resume_SFX_Beep	
+	368551784	Play_MX_GamePlay			\Default Work Unit\Play_MX_GamePlay	
+	447361031	Play_SFX_Crash			\Default Work Unit\Play_SFX_Crash	
+	452547817	Stop_All			\Default Work Unit\Stop_All	
+	525385203	Play_DX_WizardLaugh			\Default Work Unit\Play_DX_WizardLaugh	
+	603257448	Stop_SFX_Heartbeat			\Default Work Unit\Stop_SFX_Heartbeat	
+	633580872	Play_SFX_Whoosh			\Default Work Unit\Play_SFX_Whoosh	
+	728385520	Pause_SFX_Heartbeat			\Default Work Unit\Pause_SFX_Heartbeat	
+	797871433	Stop_SFX_Burning			\Default Work Unit\Stop_SFX_Burning	
+	1150518804	Play_SFX_Thump			\Default Work Unit\Play_SFX_Thump	
+	1150619856	Play_SFX_SwordHit			\Default Work Unit\Play_SFX_SwordHit	
+	1281523905	Play_SFX_Release			\Default Work Unit\Play_SFX_Release	
+	1296997860	Pause_SFX_Beep			\Default Work Unit\Pause_SFX_Beep	
+	1493035759	Play_SFX_Burning			\Default Work Unit\Play_SFX_Burning	
+	1721105142	Play_SFX_Throw			\Default Work Unit\Play_SFX_Throw	
+	1769938012	Stop_SFX_Beep			\Default Work Unit\Stop_SFX_Beep	
+	1818641459	Play_SFX_Freeze			\Default Work Unit\Play_SFX_Freeze	
+	1924038202	Play_MX_MainMenu			\Default Work Unit\Play_MX_MainMenu	
+	2004057136	Play_DX_PlayerDie			\Default Work Unit\Play_DX_PlayerDie	
+	2095731649	Play_DX_PlayerHurt			\Default Work Unit\Play_DX_PlayerHurt	
+	2150497550	Play_SFX_Beep			\Default Work Unit\Play_SFX_Beep	
+	2405325207	Play_SFX_PickUpObject			\Default Work Unit\Play_SFX_PickUpObject	
+	2620823794	Play_SFX_Extinguish			\Default Work Unit\Play_SFX_Extinguish	
+	2643122482	Play_SFX_PlayerWalk			\Default Work Unit\Play_SFX_PlayerWalk	
+	3165009754	Stop_MX_GamePlay			\Default Work Unit\Stop_MX_GamePlay	
+	3305118607	Play_SFX_Roll			\Default Work Unit\Play_SFX_Roll	
+	3444481569	Play_SFX_Squish			\Default Work Unit\Play_SFX_Squish	
+	3458058384	Resume_SFX_Burning			\Default Work Unit\Resume_SFX_Burning	
+	3474777521	Pause_SFX_Burning			\Default Work Unit\Pause_SFX_Burning	
+	3679762312	Resume_All			\Default Work Unit\Resume_All	
+	3750479633	Play_SFX_SpellCast			\Default Work Unit\Play_SFX_SpellCast	
+	3753599830	Play_DX_WizardDeath			\Default Work Unit\Play_DX_WizardDeath	
+	3864097025	Pause_All			\Default Work Unit\Pause_All	
+	3902843132	Play_DX_WizardTaunt			\Default Work Unit\Play_DX_WizardTaunt	
+	3914754973	Play_SFX_SwordSwing			\Default Work Unit\Play_SFX_SwordSwing	
+	3946268013	Resume_SFX_Heartbeat			\Default Work Unit\Resume_SFX_Heartbeat	
+	4054446234	Play_SFX_Heartbeat			\Default Work Unit\Play_SFX_Heartbeat	
+	4272494312	Stop_MX_MainMenu			\Default Work Unit\Stop_MX_MainMenu	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	24320508	SFX_Thump	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\sfx_thump_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Thump		3931
+	42831143	SFX_Burning	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\sfx_burning_4f27f02a.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Burning		40710
+	48844377	SFX_Heartbeat	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\sfx_heartbeat_4f27f02a.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Heartbeat		30139
+	80614090	DX_PlayerHurt1	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\dx_playerhurt1_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\DX_PlayerHurt\DX_PlayerHurt1		2554
+	161636980	DX_PlayerDie	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\dx_playerdie_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\DX_PlayerDie		9754
+	165113989	MX_GamePlay	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\mx_gameplay_4f27f02a.wem		\Interactive Music Hierarchy\Default Work Unit\MX_GamePlay\MX_GamePlay\MX_GamePlay		2091243
+	175277818	DX_WizardDeath	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\dx_wizarddeath_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\DX_WizardDeath		27725
+	267529023	SFX_Crash	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\sfx_crash_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Crash		10398
+	280101749	SFX_Roll	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\sfx_roll_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Roll		16450
+	311812306	SFX_PlayerWalk	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\sfx_playerwalk_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_PlayerWalk		4806
+	312480718	DX_WizardTaunt1	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\dx_wizardtaunt1_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\DX_WizardTaunt\DX_WizardTaunt1		9580
+	322063477	SFX_SwordSwing3	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\sfx_swordswing3_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_SwordSwing\SFX_SwordSwing3		1641
+	352796617	DX_PlayerHurt3	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\dx_playerhurt3_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\DX_PlayerHurt\DX_PlayerHurt3		2670
+	372948952	DX_PlayerHurt2	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\dx_playerhurt2_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\DX_PlayerHurt\DX_PlayerHurt2		2224
+	377976014	DX_WizardTaunt2	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\dx_wizardtaunt2_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\DX_WizardTaunt\DX_WizardTaunt2		29982
+	386662155	DX_WizardLaugh	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\dx_wizardlaugh_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\DX_WizardLaugh		18300
+	429901942	SFX_Explosion	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\sfx_explosion_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Explosion		7273
+	462549309	SFX_Release	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\sfx_release_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Release		8762
+	495967606	SFX_SwordSwing1	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\sfx_swordswing1_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_SwordSwing\SFX_SwordSwing1		2559
+	523524158	SFX_Throw	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\sfx_throw_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Throw		9313
+	554389618	DX_WizardTaunt3	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\dx_wizardtaunt3_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\DX_WizardTaunt\DX_WizardTaunt3		27459
+	590333427	SFX_PickUpObject	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\sfx_pickupobject_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_PickUpObject		5310
+	609585804	SFX_Extinguish	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\sfx_extinguish_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Extinguish		25934
+	619445899	SFX_SpellCast	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\sfx_spellcast_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_SpellCast		12383
+	679006382	MX_MainMenu	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\mx_mainmenu_4f27f02a.wem		\Interactive Music Hierarchy\Default Work Unit\MX_MainMenu\MX_MainMenu\MX_MainMenu		697684
+	725957045	SFX_SwordSwing2	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\sfx_swordswing2_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_SwordSwing\SFX_SwordSwing2		1381
+	824074272	SFX_SwordHit	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\sfx_swordhit_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_SwordHit		5090
+	933087926	SFX_Squish	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\sfx_squish_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Squish		4302
+	980840435	SFX_Freeze	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\sfx_freeze_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Freeze		14842
+	1015868216	SFX_Whoosh	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\sfx_whoosh_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Whoosh		4592
+	1058267670	SFX_Beep	D:\_Wwise Projects\8BitBacon\.cache\Windows\sfx\sfx_beep_4f27f02a.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Beep		10870
+

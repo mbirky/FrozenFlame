@@ -1,0 +1,107 @@
+linear_translate
+0	1
+0	0	-0.033
+
+linear_translate
+1	2
+0	0	-0.013
+
+linear_translate
+2	3
+0	0	-0.002
+
+linear_translate
+3	4
+0	0	-0.001
+
+linear_translate
+4	5
+0	0	-0.013
+
+linear_translate
+5	6
+0	0	-0.033
+
+linear_translate
+6	7
+0	0	-0.658
+
+linear_translate
+7	8
+0	0	-0.394
+
+linear_translate
+8	9
+0	0	-0.333
+
+linear_translate
+9	10
+0	0	-0.14
+
+linear_translate
+10	11
+0	0	0.004
+
+linear_translate
+11	12
+0	0	0.008
+
+linear_translate
+12	14
+0	0	0.01
+
+linear_translate
+14	15
+0	0	0.008
+
+linear_translate
+15	16
+0	0	0.003
+
+linear_translate
+18	19
+0	0	0.261
+
+linear_translate
+19	20
+0	0	0.475
+
+linear_translate
+20	21
+0	0	0.094
+
+linear_translate
+21	22
+0	0	0.069
+
+linear_translate
+22	23
+0	0	0.223
+
+linear_translate
+23	24
+0	0	0.275
+
+linear_translate
+24	25
+0	0	0.234
+
+linear_translate
+25	26
+0	0	0.099
+
+linear_translate
+26	27
+0	0	0.003
+
+speed_mult
+0	5
+1.75
+
+speed_mult
+5	16
+1.5
+
+speed_mult
+16	35
+1.25

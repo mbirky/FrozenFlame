@@ -1,0 +1,980 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="AI">
+      <UniqueIdentifier>{dc8a074c-e681-4c1f-bdf0-ed7425e31b04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collisions">
+      <UniqueIdentifier>{f39c77c2-1db7-488f-9c4b-419dd830c050}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core">
+      <UniqueIdentifier>{a0098e5e-b5ee-4095-9c66-2d927c46c288}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects">
+      <UniqueIdentifier>{a55d4c9c-74ac-46df-8745-052c8bc516d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sound">
+      <UniqueIdentifier>{24c743c1-5fc7-4e0f-a113-3c46b8b52607}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States">
+      <UniqueIdentifier>{c0c03032-e33f-4256-b599-493bfc55b093}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Util">
+      <UniqueIdentifier>{573db346-0ddf-40fe-ba8d-cb8d45a97fbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Header Files">
+      <UniqueIdentifier>{562856e7-9af1-4237-b3c2-14c1b2663cce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Source Files">
+      <UniqueIdentifier>{fa6ac0c3-450c-40a7-896e-50bbcea83c6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Header Files">
+      <UniqueIdentifier>{312df334-eb02-43ed-a3ea-57dbece3e582}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Source Files">
+      <UniqueIdentifier>{2103c593-bbc5-41c1-9733-44611ab14692}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Util\Header Files">
+      <UniqueIdentifier>{9467c3e2-9552-4417-b850-031707d9f232}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Util\Source Files">
+      <UniqueIdentifier>{6fa7c851-bca5-40e3-aad8-ad95bcf055de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI\Header Files">
+      <UniqueIdentifier>{a0533025-4d18-461b-bf5e-896ef4e560da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI\Source Files">
+      <UniqueIdentifier>{dcba1b0d-cab8-4a4d-af67-66c1ee6d7b58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collisions\Header Files">
+      <UniqueIdentifier>{a6894087-6456-44a3-9bbc-1f7fba9906ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collisions\Source Files">
+      <UniqueIdentifier>{9ba56504-1620-4242-bea2-167730712c31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Header Files">
+      <UniqueIdentifier>{7ec6af49-109b-4dd0-a801-bebc25c53ce1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Source Files">
+      <UniqueIdentifier>{74f84b33-a655-4f10-a50d-789cb74e8f70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sound\Header Files">
+      <UniqueIdentifier>{e43fd06c-c020-463e-8674-c02e470be155}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sound\Source Files">
+      <UniqueIdentifier>{99782fcc-29fb-4c97-b67b-7c468e5c40ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sound\AKIncludes">
+      <UniqueIdentifier>{26d80b95-c2f1-4c5b-a323-ef205efa8b2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Levels">
+      <UniqueIdentifier>{277113b7-e235-45eb-b257-4f5ee8d4c6c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Levels\Section3">
+      <UniqueIdentifier>{de92ce1e-0a9e-4b86-b9d4-7190ef1d5761}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Levels\Section0">
+      <UniqueIdentifier>{0a5a7530-98e7-4538-9ab2-06e7bd63be6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Levels\Section1">
+      <UniqueIdentifier>{41d04f93-6570-46e8-9926-fc83248d8aae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Levels\Section2">
+      <UniqueIdentifier>{c9d0cd27-fc10-45aa-86b5-bcfe35003798}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics">
+      <UniqueIdentifier>{fffe1b23-8019-4cb5-9b03-a8def7549298}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics\Rendering">
+      <UniqueIdentifier>{02bca449-0028-4a0b-9313-a66c3d51e529}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics\Rendering\Header Files">
+      <UniqueIdentifier>{62938137-6cdf-441f-aa89-69a675a54db3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics\Rendering\Source Files">
+      <UniqueIdentifier>{38c8be85-2e42-461e-bdc8-4abd83cea9fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics\Animations">
+      <UniqueIdentifier>{054697b0-b67e-4e12-ab77-eac61e8add1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics\Animations\Header Files">
+      <UniqueIdentifier>{08e0f64a-f2a6-409e-929c-9455711808ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics\Animations\Source Files">
+      <UniqueIdentifier>{6da3e223-8f8c-4fb2-95d7-d2e7169a18d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics\Lights">
+      <UniqueIdentifier>{058c0542-b07e-4c1a-8979-9474beb7e563}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics\Lights\Header Files">
+      <UniqueIdentifier>{374580fb-25dd-4b4e-8ca9-85653f9b9453}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics\Lights\Source Files">
+      <UniqueIdentifier>{4cfd535c-bed7-4a15-a422-854ff96dbdf3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics\Assets">
+      <UniqueIdentifier>{d0e663f5-2d97-4cfd-ba52-1a0506410c9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics\Assets\Header Files">
+      <UniqueIdentifier>{de621372-e666-4f16-98cf-ebc66f2505c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics\Assets\Source Files">
+      <UniqueIdentifier>{7daabfe7-f150-4019-b18f-6575e55a84e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Achievements">
+      <UniqueIdentifier>{dfe98da6-36a7-4105-a715-07eba40c2a79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Achievements\Header Files">
+      <UniqueIdentifier>{34383ff9-3f8a-4d6f-b22c-8fc4d3638df7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Achievements\Source Files">
+      <UniqueIdentifier>{398a41f8-117d-4608-829a-0aa26f2b9b49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics\Render Instances">
+      <UniqueIdentifier>{f63f0507-36f8-4b16-bef9-807849195020}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics\Render Instances\Header Files">
+      <UniqueIdentifier>{555fcf74-adc4-4d4a-bb11-19bd7774f679}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics\Render Instances\Source Files">
+      <UniqueIdentifier>{d31ad8d3-80da-42e1-8d8e-4547e6b1bf8b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\WinMain.cpp" />
+    <ClCompile Include="Source\CGame.cpp">
+      <Filter>Core\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Util\CInput.cpp">
+      <Filter>Util\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Util\CTimer.cpp">
+      <Filter>Util\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\States\CGameState.cpp">
+      <Filter>States\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\States\CMainMenuState.cpp">
+      <Filter>States\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\CollidableObject.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\Enemy.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\EnvironmentObject.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\ExplosiveEnemy.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\FireEnemy.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\IceEnemy.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\MeleeEnemy.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\ObjectManager.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\PlayerObject.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\ProjectileObject.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\RangedEnemy.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\WizardEnemy.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\CBehaviorManager.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\CBehaviors.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\CFSM.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Sound\CSoundManager.cpp">
+      <Filter>Sound\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Sound\AKIncludes\AkDefaultIOHookBlocking.cpp">
+      <Filter>Sound\AKIncludes</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Sound\AKIncludes\AkDefaultIOHookDeferred.cpp">
+      <Filter>Sound\AKIncludes</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Sound\AKIncludes\AkDefaultLowLevelIODispatcher.cpp">
+      <Filter>Sound\AKIncludes</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Sound\AKIncludes\AkFileLocationBase.cpp">
+      <Filter>Sound\AKIncludes</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Sound\AKIncludes\AkFilePackage.cpp">
+      <Filter>Sound\AKIncludes</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Sound\AKIncludes\AkFilePackageLUT.cpp">
+      <Filter>Sound\AKIncludes</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\BaseObject.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Collision\CollisionLibrary.cpp">
+      <Filter>Collisions\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Util\CFontManager.cpp">
+      <Filter>Util\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Util\Util.cpp">
+      <Filter>Util\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\States\CPauseState.cpp">
+      <Filter>States\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Collision\ED2CollisionLibrary.cpp">
+      <Filter>Collisions\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\AttackObject.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\CFireTrap.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\CIceTrap.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\States\CWinState.cpp">
+      <Filter>States\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\States\CLossState.cpp">
+      <Filter>States\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Core\CWorldManager.cpp">
+      <Filter>Core\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Core\CLevel.cpp">
+      <Filter>Core\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\Wall.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\Snowball.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\States\COptionsMenuState.cpp">
+      <Filter>States\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\states\CControlsState.cpp">
+      <Filter>States\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\states\CVideoOptionsState.cpp">
+      <Filter>States\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\View.cpp">
+      <Filter>Graphics\Rendering\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\Camera.cpp">
+      <Filter>Graphics\Rendering\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\Renderer.cpp">
+      <Filter>Graphics\Rendering\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\RenderTarget.cpp">
+      <Filter>Graphics\Rendering\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\States\CSoundOptionState.cpp">
+      <Filter>States\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\States\CCreditsState.cpp">
+      <Filter>States\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\MeleeBehavior.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\BaseBehavior.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\WanderBehavior.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\FlockBehavior.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\RangedBehavior.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\AlignBehavior.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\RollBehavior.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\BreathBehavior.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\SnowballBehavior.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\RushBehavior.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\FloatBehavior.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\PointLight.cpp">
+      <Filter>Graphics\Lights\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\DirLight.cpp">
+      <Filter>Graphics\Lights\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\Light.cpp">
+      <Filter>Graphics\Lights\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\ExhaustBehavior.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\HyperdashBehavior.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\HyperOrbBehavior.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\IdleTrapBehavior.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\CPickupObject.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Animations\AnimPlayer.cpp">
+      <Filter>Graphics\Animations\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Animations\Interpolator.cpp">
+      <Filter>Graphics\Animations\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Animations\Animation.cpp">
+      <Filter>Graphics\Animations\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Animations\KeyFrame.cpp">
+      <Filter>Graphics\Animations\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\Emitter.cpp">
+      <Filter>Graphics\Assets\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\Model.cpp">
+      <Filter>Graphics\Assets\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\AssetManager.cpp">
+      <Filter>Graphics\Assets\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\PostProcess.cpp">
+      <Filter>Graphics\Rendering\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\States\CConsoleState.cpp">
+      <Filter>States\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\PanicBehavior.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\Spawner.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\HomingBehavior.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Util\CluaFunctions.cpp">
+      <Filter>Util\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\States\CHelpScreenState.cpp">
+      <Filter>States\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\SceneryObject.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\States\CDifficultyState.cpp">
+      <Filter>States\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\CEmitterManager.cpp">
+      <Filter>Graphics\Rendering\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Achievements\Source\CAchievementManager.cpp">
+      <Filter>Achievements\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\Portal.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\CHUD.cpp">
+      <Filter>Graphics\Rendering\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\States\CAchievementState.cpp">
+      <Filter>States\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\ResetBehavior.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\EscapeBehavior.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\PostProcessChain.cpp">
+      <Filter>Graphics\Rendering\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\States\CFadeState.cpp">
+      <Filter>States\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\TrapSpawnBehavior.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\Signpost.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\States\CPopupState.cpp">
+      <Filter>States\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\HyperSnowballBehavior.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\RenderInstance.cpp">
+      <Filter>Graphics\Render Instances\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\RenderThing.cpp">
+      <Filter>Graphics\Render Instances\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\RenderInstanceAnimated.cpp">
+      <Filter>Graphics\Render Instances\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\RenderInstanceParticles.cpp">
+      <Filter>Graphics\Render Instances\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\DynamicShape.cpp">
+      <Filter>Graphics\Render Instances\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Renderer\RenderInstanceAttached.cpp">
+      <Filter>Graphics\Render Instances\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AI\Source\GloatBehavior.cpp">
+      <Filter>AI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Objects\MenuModelObject.cpp">
+      <Filter>Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\States\CLoadState.cpp">
+      <Filter>States\Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\Util\Matrix4x4.h">
+      <Filter>Util\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Util\Util.h">
+      <Filter>Util\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\CGame.h">
+      <Filter>Core\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Util\CInput.h">
+      <Filter>Util\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Util\CTimer.h">
+      <Filter>Util\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\States\CGameState.h">
+      <Filter>States\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\States\IGameState.h">
+      <Filter>States\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Util\matrix3.h">
+      <Filter>Util\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Util\vec3.h">
+      <Filter>Util\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\States\CMainMenuState.h">
+      <Filter>States\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\BaseObject.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\CollidableObject.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\Enemy.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\EnvironmentObject.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\ExplosiveEnemy.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\FireEnemy.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\IceEnemy.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\MeleeEnemy.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\ObjectManager.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\PlayerObject.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\ProjectileObject.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\RangedEnemy.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\WizardEnemy.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\CBehaviorManager.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\CBehaviors.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\CFSM.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Sound\CSoundManager.h">
+      <Filter>Sound\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Sound\AKIncludes\AkDefaultIOHookBlocking.h">
+      <Filter>Sound\AKIncludes</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Sound\AKIncludes\AkDefaultIOHookDeferred.h">
+      <Filter>Sound\AKIncludes</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Sound\AKIncludes\AkDefaultLowLevelIODispatcher.h">
+      <Filter>Sound\AKIncludes</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Sound\AKIncludes\AkFileHelpers.h">
+      <Filter>Sound\AKIncludes</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Sound\AKIncludes\AkFileLocationBase.h">
+      <Filter>Sound\AKIncludes</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Sound\AKIncludes\AkFilePackage.h">
+      <Filter>Sound\AKIncludes</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Sound\AKIncludes\AkFilePackageLowLevelIO.h">
+      <Filter>Sound\AKIncludes</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Sound\AKIncludes\AkFilePackageLowLevelIOBlocking.h">
+      <Filter>Sound\AKIncludes</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Sound\AKIncludes\AkFilePackageLowLevelIODeferred.h">
+      <Filter>Sound\AKIncludes</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Sound\AKIncludes\AkFilePackageLUT.h">
+      <Filter>Sound\AKIncludes</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Sound\AKIncludes\AkSoundEngineExports.h">
+      <Filter>Sound\AKIncludes</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Sound\AKIncludes\resource.h">
+      <Filter>Sound\AKIncludes</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Sound\AKIncludes\stdafx.h">
+      <Filter>Sound\AKIncludes</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Collision\CollisionLibrary.h">
+      <Filter>Collisions\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Util\CFontManager.h">
+      <Filter>Util\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Globals.h" />
+    <ClInclude Include="Source\States\CPauseState.h">
+      <Filter>States\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Collision\ED2CollisionLibrary.h">
+      <Filter>Collisions\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Util\vec4.h">
+      <Filter>Util\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\AttackObject.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\CFireTrap.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\CIceTrap.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\States\CWinState.h">
+      <Filter>States\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\States\CLossState.h">
+      <Filter>States\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Core\CWorldManager.h">
+      <Filter>Core\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Core\CLevel.h">
+      <Filter>Core\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\Wall.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\Snowball.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\States\COptionsMenuState.h">
+      <Filter>States\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\States\CControlsState.h">
+      <Filter>States\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\states\CVideoOptionsState.h">
+      <Filter>States\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\View.h">
+      <Filter>Graphics\Rendering\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\Camera.h">
+      <Filter>Graphics\Rendering\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\RenderTarget.h">
+      <Filter>Graphics\Rendering\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\States\CSoundOptionState.h">
+      <Filter>States\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Sound\Wwise_IDs.h">
+      <Filter>Sound\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\States\CCreditsState.h">
+      <Filter>States\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\MeleeBehavior.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\BaseBehavior.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\WanderBehavior.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\FlockBehavior.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\RangedBehavior.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\AlignBehavior.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\RollBehavior.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\SnowballBehavior.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\BreathBehavior.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\RushBehavior.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\FloatBehavior.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\DirLight.h">
+      <Filter>Graphics\Lights\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\Light.h">
+      <Filter>Graphics\Lights\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\PointLight.h">
+      <Filter>Graphics\Lights\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\ExhaustBehavior.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\HyperdashBehavior.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\HyperOrbBehavior.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\IdleTrapBehavior.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\CPickupObject.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Animations\AnimPlayer.h">
+      <Filter>Graphics\Animations\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Animations\Interpolator.h">
+      <Filter>Graphics\Animations\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Animations\Animation.h">
+      <Filter>Graphics\Animations\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Animations\KeyFrame.h">
+      <Filter>Graphics\Animations\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\Model.h">
+      <Filter>Graphics\Assets\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\Emitter.h">
+      <Filter>Graphics\Assets\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\AssetManager.h">
+      <Filter>Graphics\Assets\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\Renderer.h">
+      <Filter>Graphics\Rendering\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\RenderDefinitions.h">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\PostProcess.h">
+      <Filter>Graphics\Rendering\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\States\CConsoleState.h">
+      <Filter>States\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\PanicBehavior.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\Spawner.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\HomingBehavior.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Util\CluaFunctions.h">
+      <Filter>Util\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\States\CHelpScreenState.h">
+      <Filter>States\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\SceneryObject.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\States\CDifficultyState.h">
+      <Filter>States\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Util\PriorityQueue.h">
+      <Filter>Util\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\CEmitterManager.h">
+      <Filter>Graphics\Rendering\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Achievements\Header\CAchievementManager.h">
+      <Filter>Achievements\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\Portal.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Animations\AnimEvent.h">
+      <Filter>Graphics\Animations\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\CHUD.h">
+      <Filter>Graphics\Rendering\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\States\CAchievementState.h">
+      <Filter>States\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\ResetBehavior.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\EscapeBehavior.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\PostProcessChain.h">
+      <Filter>Graphics\Rendering\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\States\CFadeState.h">
+      <Filter>States\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\TrapSpawnBehavior.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\Signpost.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\States\CPopupState.h">
+      <Filter>States\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\HyperSnowballBehavior.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\RenderInstance.h">
+      <Filter>Graphics\Render Instances\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\RenderThing.h">
+      <Filter>Graphics\Render Instances\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\RenderInstanceAnimated.h">
+      <Filter>Graphics\Render Instances\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\RenderInstanceParticles.h">
+      <Filter>Graphics\Render Instances\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\DynamicShape.h">
+      <Filter>Graphics\Render Instances\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Renderer\RenderInstanceAttached.h">
+      <Filter>Graphics\Render Instances\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AI\Header\GloatBehavior.h">
+      <Filter>AI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Objects\MenuModelObject.h">
+      <Filter>Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\States\CLoadState.h">
+      <Filter>States\Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Source\Sound\AKIncludes\AkFilePackageLowLevelIO.inl">
+      <Filter>Sound\AKIncludes</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section0\Level0.lua">
+      <Filter>Resource Files\Levels\Section0</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section0\Level1.lua">
+      <Filter>Resource Files\Levels\Section0</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section0\Level2.lua">
+      <Filter>Resource Files\Levels\Section0</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section0\Level3.lua">
+      <Filter>Resource Files\Levels\Section0</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section0\Level4.lua">
+      <Filter>Resource Files\Levels\Section0</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section0\Level5.lua">
+      <Filter>Resource Files\Levels\Section0</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section0\Level6.lua">
+      <Filter>Resource Files\Levels\Section0</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section1\Level0.lua">
+      <Filter>Resource Files\Levels\Section1</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section1\Level1.lua">
+      <Filter>Resource Files\Levels\Section1</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section1\Level2.lua">
+      <Filter>Resource Files\Levels\Section1</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section1\Level3.lua">
+      <Filter>Resource Files\Levels\Section1</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section1\Level4.lua">
+      <Filter>Resource Files\Levels\Section1</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section1\Level5.lua">
+      <Filter>Resource Files\Levels\Section1</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section1\Level6.lua">
+      <Filter>Resource Files\Levels\Section1</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section2\Level0.lua">
+      <Filter>Resource Files\Levels\Section2</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section2\Level1.lua">
+      <Filter>Resource Files\Levels\Section2</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section2\Level2.lua">
+      <Filter>Resource Files\Levels\Section2</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section2\Level3.lua">
+      <Filter>Resource Files\Levels\Section2</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section2\Level4.lua">
+      <Filter>Resource Files\Levels\Section2</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section2\Level5.lua">
+      <Filter>Resource Files\Levels\Section2</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section2\Level6.lua">
+      <Filter>Resource Files\Levels\Section2</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section3\Level0.lua">
+      <Filter>Resource Files\Levels\Section3</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section3\Level1.lua">
+      <Filter>Resource Files\Levels\Section3</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section3\Level2.lua">
+      <Filter>Resource Files\Levels\Section3</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section3\Level3.lua">
+      <Filter>Resource Files\Levels\Section3</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section3\Level4.lua">
+      <Filter>Resource Files\Levels\Section3</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section3\Level5.lua">
+      <Filter>Resource Files\Levels\Section3</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section3\Level6.lua">
+      <Filter>Resource Files\Levels\Section3</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section0\Level7.lua">
+      <Filter>Resource Files\Levels\Section0</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section0\Level8.lua">
+      <Filter>Resource Files\Levels\Section0</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section0\Level9.lua">
+      <Filter>Resource Files\Levels\Section0</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section1\Level7.lua">
+      <Filter>Resource Files\Levels\Section1</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section1\Level8.lua">
+      <Filter>Resource Files\Levels\Section1</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section1\Level9.lua">
+      <Filter>Resource Files\Levels\Section1</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section1\Level10.lua">
+      <Filter>Resource Files\Levels\Section1</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section2\Level7.lua">
+      <Filter>Resource Files\Levels\Section2</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section2\Level8.lua">
+      <Filter>Resource Files\Levels\Section2</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section2\Level9.lua">
+      <Filter>Resource Files\Levels\Section2</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section3\Level7.lua">
+      <Filter>Resource Files\Levels\Section3</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\Section3\Level8.lua">
+      <Filter>Resource Files\Levels\Section3</Filter>
+    </None>
+    <None Include="Resource\Scripts\Levels\BossLevel.lua">
+      <Filter>Resource Files\Levels</Filter>
+    </None>
+    <None Include="Resource\Scripts\Commands.lua">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

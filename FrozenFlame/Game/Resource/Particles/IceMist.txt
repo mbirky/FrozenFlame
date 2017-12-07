@@ -1,0 +1,48 @@
+2					//Render Type
+80				//number of particles
+10					//min particles
+15					//max particles
+2					//emitter lifetime
+clouds.png		//texture
+256					//texture width
+256					//texture height	
+None						     	//model
+1				//modifier start scale X
+1				//modifier start scale Y
+1				//modifier start scale Z
+2					//modifier end scale X
+2					//modifier end scale Y
+2					//modifier end scale Z
+3						//modifier rotation X
+0						//modifier rotation Y
+0						//modifier rotation Z
+0.9				//modifier min life
+1.5				//modifier max life
+0.1 				//modifier start color r
+0.1 	 			//modifier start color g
+0.12				//modifier start color b
+0.1					//modifier start color a
+0.15			//modifier mid color r
+0.15			//modifier mid color g
+0.22			//modifier mid color b
+0.1				//modifier mid color a
+0.2					//modifier end color r
+0.2					//modifier end color g
+0.4					//modifier end color b
+0.3					//modifier end color a
+0				//min gravity x
+0				//min gravity y
+0				//min gravity z
+0					//max gravity x
+0					//max gravity y
+0					//max gravity z
+2				//max velocity x
+2				//max velocity y
+2				//max velocity z
+-2					//min velocity x
+-1					//min velocity y
+-2					//min velocity z
+6				//range(x and z)
+6
+5					//Source Blend type (0-12)
+2					//Destination Blend type (0-12)

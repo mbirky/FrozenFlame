@@ -1,0 +1,11 @@
+ZERO = 1
+ONE = 2
+Source Color = 3
+Inverse Source Color = 4
+Source Alpha = 5
+Inverse Source Alpha = 6
+Destination Alpha = 7
+Inverse Destination Alpha = 8
+Destination Color = 9
+Inverse Destiniation Color = 10
+Source Alpha Saturate = 11

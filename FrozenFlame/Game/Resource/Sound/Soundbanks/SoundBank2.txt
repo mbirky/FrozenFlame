@@ -1,0 +1,241 @@
+Event	ID	Name			Wwise Object Path	Notes
+	21750526	Play_FX_3D_Footsteps			\Default Work Unit\Play_FX_3D_Footsteps	
+	73471290	Play_FX_3D_Explosion			\Default Work Unit\Play_FX_3D_Explosion	
+	163704345	Play_FX_3D_Missle_Loop			\Default Work Unit\Play_FX_3D_Missle_Loop	
+	171115091	Play_PS_Enemy_LilGoo			\Default Work Unit\Play_PS_Enemy_LilGoo	
+	425165382	Play_FX_2D_AssaultRifle_Loop			\Default Work Unit\Play_FX_2D_AssaultRifle_Loop	
+	430329040	Play_DX_2D_UnderAttack			\Default Work Unit\Play_DX_2D_UnderAttack	
+	452547817	Stop_All			\Default Work Unit\Stop_All	
+	507373585	Play_PS_LevelBoss			\Default Work Unit\Play_PS_LevelBoss	
+	696917685	Play_FX_2D_MagicPickup			\Default Work Unit\Play_FX_2D_MagicPickup	
+	726857588	Play_FX_2D_Forest_Loop			\Default Work Unit\Play_FX_2D_Forest_Loop	
+	891453498	Play_FX_3D_Bodyfall			\Default Work Unit\Play_FX_3D_Bodyfall	
+	905521127	Play_FX_2D_Car_Loop			\Default Work Unit\Play_FX_2D_Car_Loop	
+	915619433	Stop_PS_Level1			\Default Work Unit\Stop_PS_Level1	
+	915619434	Stop_PS_Level2			\Default Work Unit\Stop_PS_Level2	
+	915619435	Stop_PS_Level3			\Default Work Unit\Stop_PS_Level3	
+	915619436	Stop_PS_Level4			\Default Work Unit\Stop_PS_Level4	
+	943723731	Stop_DX_2D_Breathing_Loop			\Default Work Unit\Stop_DX_2D_Breathing_Loop	
+	969992391	Play_DX_3D_Attack			\Default Work Unit\Play_DX_3D_Attack	
+	987385568	Play_FX_2D_Jump			\Default Work Unit\Play_FX_2D_Jump	
+	1026588013	Stop_PS_Enemy_JunkHulk			\Default Work Unit\Stop_PS_Enemy_JunkHulk	
+	1042256331	Stop_FX_3D_AssaultRifle_Loop			\Default Work Unit\Stop_FX_3D_AssaultRifle_Loop	
+	1070288727	Play_FX_3D_Punches			\Default Work Unit\Play_FX_3D_Punches	
+	1071468557	Stop_PS_Credit			\Default Work Unit\Stop_PS_Credit	
+	1107108682	Play_FX_2D_AmmoPickup			\Default Work Unit\Play_FX_2D_AmmoPickup	
+	1203171421	Play_DX_2D_Hurt			\Default Work Unit\Play_DX_2D_Hurt	
+	1253233846	Play_PS_Checkpoint			\Default Work Unit\Play_PS_Checkpoint	
+	1262658854	Stop_FX_2D_Alarm_Loop			\Default Work Unit\Stop_FX_2D_Alarm_Loop	
+	1411903855	Stop_PS_Menu			\Default Work Unit\Stop_PS_Menu	
+	1456069603	Play_FX_2D_CoinPickup			\Default Work Unit\Play_FX_2D_CoinPickup	
+	1469364825	Stop_PS_Enemy_LilGoo			\Default Work Unit\Stop_PS_Enemy_LilGoo	
+	1491931047	Play_FX_3D_WaterSplash			\Default Work Unit\Play_FX_3D_WaterSplash	
+	1526375285	Play_FX_2D_MenuAccept			\Default Work Unit\Play_FX_2D_MenuAccept	
+	1585471016	Play_FX_3D_Door_Open			\Default Work Unit\Play_FX_3D_Door_Open	
+	1728663298	Play_FX_2D_HealthPickup			\Default Work Unit\Play_FX_2D_HealthPickup	
+	1763800590	Play_DX_2D_Jump			\Default Work Unit\Play_DX_2D_Jump	
+	1773672128	Play_PS_LevelDarkCarnival			\Default Work Unit\Play_PS_LevelDarkCarnival	
+	1902835760	Play_FX_3D_SmashCrate			\Default Work Unit\Play_FX_3D_SmashCrate	
+	2046371004	Play_FX_3D_Door_Close			\Default Work Unit\Play_FX_3D_Door_Close	
+	2067887017	Play_FX_2D_Footsteps			\Default Work Unit\Play_FX_2D_Footsteps	
+	2068802240	Play_DX_2D_Death			\Default Work Unit\Play_DX_2D_Death	
+	2078529791	Play_FX_2D_MenuCancel			\Default Work Unit\Play_FX_2D_MenuCancel	
+	2160640979	Play_PS_Enemy_JunkHulk			\Default Work Unit\Play_PS_Enemy_JunkHulk	
+	2230580976	Play_MX_MusicLoop_02			\Default Work Unit\Play_MX_MusicLoop_02	
+	2230580977	Play_MX_MusicLoop_03			\Default Work Unit\Play_MX_MusicLoop_03	
+	2230580979	Play_MX_MusicLoop_01			\Default Work Unit\Play_MX_MusicLoop_01	
+	2230580980	Play_MX_MusicLoop_06			\Default Work Unit\Play_MX_MusicLoop_06	
+	2230580982	Play_MX_MusicLoop_04			\Default Work Unit\Play_MX_MusicLoop_04	
+	2230580983	Play_MX_MusicLoop_05			\Default Work Unit\Play_MX_MusicLoop_05	
+	2337306830	Play_DX_2D_UnitCommands			\Default Work Unit\Play_DX_2D_UnitCommands	
+	2415006107	Play_FX_2D_Land			\Default Work Unit\Play_FX_2D_Land	
+	2622520724	Play_FX_2D_Underwater_Loop			\Default Work Unit\Play_FX_2D_Underwater_Loop	
+	2632226688	Play_FX_2D_Punches			\Default Work Unit\Play_FX_2D_Punches	
+	2660629218	Stop_PS_LevelDarkCarnival			\Default Work Unit\Stop_PS_LevelDarkCarnival	
+	2666978119	Play_FX_2D_Rain_Loop			\Default Work Unit\Play_FX_2D_Rain_Loop	
+	2676530772	Stop_PS_Checkpoint			\Default Work Unit\Stop_PS_Checkpoint	
+	2839419803	Play_PS_Credit			\Default Work Unit\Play_PS_Credit	
+	2882299664	Play_FX_2D_Beep			\Default Work Unit\Play_FX_2D_Beep	
+	2991831705	Play_PS_Menu			\Default Work Unit\Play_PS_Menu	
+	3082611329	Play_PS_Enemy_SlimeMonster			\Default Work Unit\Play_PS_Enemy_SlimeMonster	
+	3110195632	Play_FX_2D_Alarm_Loop			\Default Work Unit\Play_FX_2D_Alarm_Loop	
+	3112785288	Play_PS_Level2			\Default Work Unit\Play_PS_Level2	
+	3112785289	Play_PS_Level3			\Default Work Unit\Play_PS_Level3	
+	3112785291	Play_PS_Level1			\Default Work Unit\Play_PS_Level1	
+	3112785294	Play_PS_Level4			\Default Work Unit\Play_PS_Level4	
+	3135678882	Play_FX_2D_WeaponWhoosh			\Default Work Unit\Play_FX_2D_WeaponWhoosh	
+	3168318615	Stop_PS_Enemy_SlimeMonster			\Default Work Unit\Stop_PS_Enemy_SlimeMonster	
+	3178288442	Stop_FX_2D_Underwater_Loop			\Default Work Unit\Stop_FX_2D_Underwater_Loop	
+	3286584031	Stop_FX_3D_Missle_Loop			\Default Work Unit\Stop_FX_3D_Missle_Loop	
+	3290877581	Stop_FX_2D_Rain_Loop			\Default Work Unit\Stop_FX_2D_Rain_Loop	
+	3293679603	Stop_PS_LevelBoss			\Default Work Unit\Stop_PS_LevelBoss	
+	3295936277	Play_FX_3D_AssaultRifle_Loop			\Default Work Unit\Play_FX_3D_AssaultRifle_Loop	
+	3359821848	Play_FX_3D_PistolShot			\Default Work Unit\Play_FX_3D_PistolShot	
+	3407866903	Play_FX_2D_Wind_Loop			\Default Work Unit\Play_FX_2D_Wind_Loop	
+	3412940309	Play_DX_2D_Breathing_Loop			\Default Work Unit\Play_DX_2D_Breathing_Loop	
+	3432959431	Play_DX_3D_Death			\Default Work Unit\Play_DX_3D_Death	
+	3553836542	Play_FX_3D_Lever_Switch			\Default Work Unit\Play_FX_3D_Lever_Switch	
+	3567964128	Stop_MX_MusicLoop_04			\Default Work Unit\Stop_MX_MusicLoop_04	
+	3567964129	Stop_MX_MusicLoop_05			\Default Work Unit\Stop_MX_MusicLoop_05	
+	3567964130	Stop_MX_MusicLoop_06			\Default Work Unit\Stop_MX_MusicLoop_06	
+	3567964133	Stop_MX_MusicLoop_01			\Default Work Unit\Stop_MX_MusicLoop_01	
+	3567964134	Stop_MX_MusicLoop_02			\Default Work Unit\Stop_MX_MusicLoop_02	
+	3567964135	Stop_MX_MusicLoop_03			\Default Work Unit\Stop_MX_MusicLoop_03	
+	3618765313	Play_FX_2D_PistolShot			\Default Work Unit\Play_FX_2D_PistolShot	
+	3621386429	Play_FX_2D_MenuMove_Hover			\Default Work Unit\Play_FX_2D_MenuMove_Hover	
+	3637374546	Play_FX_2D_MenuUnPause			\Default Work Unit\Play_FX_2D_MenuUnPause	
+	3679762312	Resume_All			\Default Work Unit\Resume_All	
+	3761829895	Play_DX_3D_Aggro			\Default Work Unit\Play_DX_3D_Aggro	
+	3814004282	Play_FX_3D_Car_Loop			\Default Work Unit\Play_FX_3D_Car_Loop	
+	3836275424	Play_DX_3D_Hurt			\Default Work Unit\Play_DX_3D_Hurt	
+	3864097025	Pause_All			\Default Work Unit\Pause_All	
+	3877919460	Stop_FX_2D_AssaultRifle_Loop			\Default Work Unit\Stop_FX_2D_AssaultRifle_Loop	
+	3939718988	Stop_FX_3D_Car_Loop			\Default Work Unit\Stop_FX_3D_Car_Loop	
+	3973443319	Play_FX_2D_SheildPickup			\Default Work Unit\Play_FX_2D_SheildPickup	
+	4017587645	Stop_FX_2D_Wind_Loop			\Default Work Unit\Stop_FX_2D_Wind_Loop	
+	4023349039	Play_FX_3D_WeaponWhoosh			\Default Work Unit\Play_FX_3D_WeaponWhoosh	
+	4042539875	Play_FX_2D_Bodyfall			\Default Work Unit\Play_FX_2D_Bodyfall	
+	4050058769	Play_FX_3D_Jump			\Default Work Unit\Play_FX_3D_Jump	
+	4112129774	Play_FX_3D_Land			\Default Work Unit\Play_FX_3D_Land	
+	4123835918	Play_FX_2D_Klaxon_Loop			\Default Work Unit\Play_FX_2D_Klaxon_Loop	
+	4126538873	Play_DX_2D_Land			\Default Work Unit\Play_DX_2D_Land	
+	4195054897	Play_FX_2D_MenuPause			\Default Work Unit\Play_FX_2D_MenuPause	
+	4219667864	Stop_FX_2D_Klaxon_Loop			\Default Work Unit\Stop_FX_2D_Klaxon_Loop	
+	4240821802	Stop_FX_2D_Forest_Loop			\Default Work Unit\Stop_FX_2D_Forest_Loop	
+	4292106387	Play_FX_2D_MenuBackup			\Default Work Unit\Play_FX_2D_MenuBackup	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	238653005	Breathing			\Default Work Unit\Breathing	
+
+Switch	ID	Name	Switch Group			Notes
+	2519965310	Idol_Walk_Breathing	Breathing			
+	3743092174	Sprint_Breathing	Breathing			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	796049864	RPM			\Default Work Unit\RPM	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	3519366	PS_Level3	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\ps_level3_ab9e423e.wem		\Interactive Music Hierarchy\Default Work Unit\PS_Level3\PS_Level3\PS_Level3		3072288
+	7851994	PS_Enemy_LilGoo	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\ps_enemy_lilgoo_ab9e423e.wem		\Interactive Music Hierarchy\Default Work Unit\PS_Enemy_LilGoo\PS_Enemy_LilGoo\PS_Enemy_LilGoo		3072288
+	12951625	FX_3D_Missle_Loop	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\rocket_missile_loop01_444760e0.wem		\Actor-Mixer Hierarchy\FX\3D\Projectiles\FX_3D_Missle_Loop		15314
+	33543037	FX_3D_Bodyfall	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\bodyfall_concrete01_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Impacts\FX_3D_Bodyfall		18363
+	38425329	Punch_Boxing_FaceHit4	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\punch_boxing_facehit4_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Impacts\FX_2D_Punches\Punch_Boxing_FaceHit4		7763
+	46157926	FX_3D_WeaponWhoosh	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\whoosh_deep01_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Weapons\Melee\FX_3D_WeaponWhoosh		19325
+	53641100	Henchmen_01_Hurt_01	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\henchmen_01_hurt_01_444760e1.wem		\Actor-Mixer Hierarchy\DX\3D\DX_3D_Hurt\Henchmen_01_Hurt_01		6641
+	58847391	Foot_Dirt1_BootJump7	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootjump7_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Movement\FX_3D_Jump\Foot_Dirt1_BootJump7		8239
+	66645390	DX_2D_UnderAttack	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\dx_sidekick_underattack_01_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_UnderAttack		15222
+	73870656	PS_Enemy_SlimeMonster	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\ps_enemy_slimemonster_ab9e423e.wem		\Interactive Music Hierarchy\Default Work Unit\PS_Enemy_SlimeMonster\PS_Enemy_SlimeMonster\PS_Enemy_SlimeMonster		3072288
+	83368234	FX_2D_Underwater_Loop	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\underwater_ambloop1_444760e0.wem		\Actor-Mixer Hierarchy\FX\2D\Ambience\FX_2D_Underwater_Loop		14683
+	83535862	Agent_Land_05	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\agent_land_05_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Land\Agent_Land_05		3838
+	86849089	DX_Sidekick_Death_02	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\dx_sidekick_death_02_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Death\DX_Sidekick_Death_02		14742
+	103608097	Henchmen_01_Attack_03	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\henchmen_01_attack_03_444760e1.wem		\Actor-Mixer Hierarchy\DX\3D\DX_3D_Attack\Henchmen_01_Attack_03		5701
+	113163960	Foot_Dirt1_BootJump1	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootjump1_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Movement\FX_2D_Jump\Foot_Dirt1_BootJump1		6307
+	114468270	Game_play_music_03_Loop	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\game_play_music_03_loop_037aa0ce.wem		\Interactive Music Hierarchy\Default Work Unit\MX_MusicLoop_03\Game_play_music_03_Loop\Game_play_music_03_Loop		1903214
+	118137773	Foot_Dirt1_BootLand5	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootland5_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Movement\FX_2D_Land\Foot_Dirt1_BootLand5		7290
+	119082756	FX_2D_Wind_Loop	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\wind_blowingloop1_444760e0.wem		\Actor-Mixer Hierarchy\FX\2D\Ambience\FX_2D_Wind_Loop		80762
+	123122664	Foot_Dirt1_BootWalk08	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootwalk08_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Movement\FX_3D_Footsteps\Foot_Dirt1_BootWalk08		9879
+	125508612	Foot_Dirt1_BootJump3	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootjump3_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Movement\FX_2D_Jump\Foot_Dirt1_BootJump3		10284
+	130332201	FX_3D_Door_Close	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\door_largewood_open01_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Doors\FX_3D_Door_Close		41369
+	135057958	Agent_Hit_beanbag_03	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\agent_hit_beanbag_03_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Hurt\Agent_Hit_beanbag_03		3861
+	157765827	Foot_Dirt1_BootJump5	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootjump5_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Movement\FX_3D_Jump\Foot_Dirt1_BootJump5		9212
+	164332036	Foot_Dirt1_BootWalk04	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootwalk04_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Movement\FX_3D_Footsteps\Foot_Dirt1_BootWalk04		12801
+	177860526	Explo_Small_04	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\explo_small_04_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Explosions\FX_3D_Explosion\Explo_Small_04		24994
+	186574772	Henchmen_01_Attack_04	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\henchmen_01_attack_04_444760e1.wem		\Actor-Mixer Hierarchy\DX\3D\DX_3D_Attack\Henchmen_01_Attack_04		5719
+	188813553	Foot_Dirt1_BootLand2	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootland2_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Movement\FX_3D_Land\Foot_Dirt1_BootLand2		10953
+	190873091	Agent_Hit_beanbag_04	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\agent_hit_beanbag_04_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Hurt\Agent_Hit_beanbag_04		3814
+	192860657	Agent_Land_03	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\agent_land_03_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Land\Agent_Land_03		4657
+	194954479	FX_2D_CoinPickup	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\pickup_coins01_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Pickups\FX_2D_CoinPickup		11335
+	196342131	Agent_Hit_Bullet_02	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\agent_hit_bullet_02_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Hurt\Agent_Hit_Bullet_02		10207
+	209263346	DX_Sidekick_Death_05	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\dx_sidekick_death_05_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Death\DX_Sidekick_Death_05		18275
+	209547262	Punch_Boxing_FaceHit3	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\punch_boxing_facehit3_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Impacts\FX_3D_Punches\Punch_Boxing_FaceHit3		5219
+	224907793	Foot_Dirt1_BootLand3	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootland3_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Movement\FX_3D_Land\Foot_Dirt1_BootLand3		10143
+	233236693	Explo_Small_05	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\explo_small_05_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Explosions\FX_3D_Explosion\Explo_Small_05		16400
+	248895595	Foot_Dirt1_BootWalk03	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootwalk03_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Movement\FX_3D_Footsteps\Foot_Dirt1_BootWalk03		9033
+	256680551	Explo_Small_01	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\explo_small_01_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Explosions\FX_3D_Explosion\Explo_Small_01		30994
+	259371108	Henchmen_01_Attack_01	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\henchmen_01_attack_01_444760e1.wem		\Actor-Mixer Hierarchy\DX\3D\DX_3D_Attack\Henchmen_01_Attack_01		5813
+	280381218	FX_2D_MagicPickup	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\pickup_gembells01_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Pickups\FX_2D_MagicPickup		18590
+	286254975	Explo_Small_06	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\explo_small_06_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Explosions\FX_3D_Explosion\Explo_Small_06		17940
+	291235004	65Corvette_Loop1	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\65corvette_loop1_444760e0.wem		\Actor-Mixer Hierarchy\FX\2D\Vehicle\FX_2D_Car_Loop\65Corvette_Loop1		19636
+	296394858	Henchmen_01_Hurt_03	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\henchmen_01_hurt_03_444760e1.wem		\Actor-Mixer Hierarchy\DX\3D\DX_3D_Hurt\Henchmen_01_Hurt_03		4640
+	339509342	Foot_Dirt1_BootJump2	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootjump2_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Movement\FX_2D_Jump\Foot_Dirt1_BootJump2		10492
+	359277939	PS_CheckPoint	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\ps_checkpoint_ab9e423e.wem		\Interactive Music Hierarchy\Default Work Unit\PS_Checkpoint\PS_CheckPoint\PS_CheckPoint		8448336
+	377377763	Foot_Dirt1_BootWalk07	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootwalk07_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Movement\FX_3D_Footsteps\Foot_Dirt1_BootWalk07		11334
+	377459119	FX_2D_MenuCancel	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\menu_cancel01_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Menu\FX_2D_MenuCancel		12813
+	379069451	Foot_Dirt1_BootLand4	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootland4_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Movement\FX_3D_Land\Foot_Dirt1_BootLand4		6761
+	387863399	Henchmen_01_Death_02	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\henchmen_01_death_02_444760e1.wem		\Actor-Mixer Hierarchy\DX\3D\DX_3D_Death\Henchmen_01_Death_02		20331
+	389904861	FX_3D_Door_Open	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\door_largewood_close_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Doors\FX_3D_Door_Open		13784
+	419285226	Punch_Boxing_FaceHit1	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\punch_boxing_facehit1_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Impacts\FX_2D_Punches\Punch_Boxing_FaceHit1		5474
+	433711047	Agent_Land_01	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\agent_land_01_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Land\Agent_Land_01		4060
+	439318752	Foot_Dirt1_BootJump6	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootjump6_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Movement\FX_2D_Jump\Foot_Dirt1_BootJump6		7476
+	460369817	Agent_Hit_beanbag_01	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\agent_hit_beanbag_01_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Hurt\Agent_Hit_beanbag_01		4316
+	460912589	Punch_Boxing_FaceHit2	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\punch_boxing_facehit2_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Impacts\FX_3D_Punches\Punch_Boxing_FaceHit2		6893
+	469467618	Agent_Jump_05	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\agent_jump_05_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Jump\Agent_Jump_05		4697
+	477136874	Breathing_Speed_01	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\breathing_speed_01_444760e0.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Breathing_Loop\Breathing_Speed_01		164548
+	477829810	FX_2D_HealthPickup	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\health_powerup_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Pickups\FX_2D_HealthPickup		19492
+	480144977	Agent_Jump_06	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\agent_jump_06_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Jump\Agent_Jump_06		6494
+	491806837	PS_Menu	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\ps_menu_ab9e423e.wem		\Interactive Music Hierarchy\Default Work Unit\PS_Menu\PS_Menu\PS_Menu		9523376
+	500927666	Agent_Jump_04	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\agent_jump_04_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Jump\Agent_Jump_04		4785
+	505391842	FX_2D_Alarm_Loop	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\alarm_loop01_444760e0.wem		\Actor-Mixer Hierarchy\FX\2D\Alarms-Indicators\FX_2D_Alarm_Loop		7397
+	517083021	Agent_Land_04	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\agent_land_04_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Land\Agent_Land_04		6832
+	522926251	Henchmen_01_Hurt_02	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\henchmen_01_hurt_02_444760e1.wem		\Actor-Mixer Hierarchy\DX\3D\DX_3D_Hurt\Henchmen_01_Hurt_02		3727
+	532148361	FX_2D_MenuBackup	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\menu_backup01_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Menu\FX_2D_MenuBackup		9230
+	532656836	Foot_Dirt1_BootLand1	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootland1_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Movement\FX_3D_Land\Foot_Dirt1_BootLand1		6267
+	540810594	Breathing_Speed_05	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\breathing_speed_05_444760e0.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Breathing_Loop\Breathing_Speed_05		44202
+	542353733	FX_2D_AmmoPickup	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\gun_weapon_pickup01_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Pickups\FX_2D_AmmoPickup		12773
+	543910436	Foot_Dirt1_BootJump4	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootjump4_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Movement\FX_3D_Jump\Foot_Dirt1_BootJump4		7086
+	546628902	Foot_Dirt1_BootWalk06	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootwalk06_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Movement\FX_3D_Footsteps\Foot_Dirt1_BootWalk06		9493
+	558408487	PS_LevelBoss	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\ps_levelboss_ab9e423e.wem		\Interactive Music Hierarchy\Default Work Unit\PS_LevelBoss\PS_LevelBoss\PS_LevelBoss		3072288
+	571111605	DX_Sidekick_GoCommand_02	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\dx_sidekick_gocommand_02_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_UnitCommands\DX_Sidekick_GoCommand_02		9783
+	575657324	Foot_Dirt1_BootWalk01	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootwalk01_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Movement\FX_3D_Footsteps\Foot_Dirt1_BootWalk01		10036
+	596088622	Punch_Boxing_FaceHit5	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\punch_boxing_facehit5_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Impacts\FX_3D_Punches\Punch_Boxing_FaceHit5		4991
+	601611294	FX_2D_Forest_Loop	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\amb_tropicalforestloop1_444760e0.wem		\Actor-Mixer Hierarchy\FX\2D\Ambience\FX_2D_Forest_Loop		124044
+	608902326	Foot_Dirt1_BootWalk05	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootwalk05_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Movement\FX_2D_Footsteps\Foot_Dirt1_BootWalk05		10459
+	613103447	Foot_Dirt1_BootLand6	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootland6_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Movement\FX_2D_Land\Foot_Dirt1_BootLand6		7451
+	615358538	PS_Credits	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\ps_credits_ab9e423e.wem		\Interactive Music Hierarchy\Default Work Unit\PS_Credit\PS_Credits\PS_Credits		5952272
+	618613825	Henchmen_01_Attack_02	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\henchmen_01_attack_02_444760e1.wem		\Actor-Mixer Hierarchy\DX\3D\DX_3D_Attack\Henchmen_01_Attack_02		5678
+	636626847	FX_2D_MenuPause	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\menupause_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Menu\FX_2D_MenuPause		9574
+	646915019	FX_2D_SheildPickup	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\pickup_armourshield01_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Pickups\FX_2D_SheildPickup		11349
+	647860590	FX_3D_PistolShot	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\gun_pistol_shot01_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Weapons\Guns\FX_3D_PistolShot		9220
+	654905969	FX_2D_AssaultRifle_Loop	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\assaultrifle_shotloop01_444760e0.wem		\Actor-Mixer Hierarchy\FX\2D\Weapons\Guns\FX_2D_AssaultRifle_Loop		23093
+	661410750	Agent_Jump_03	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\agent_jump_03_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Jump\Agent_Jump_03		7102
+	675283150	DX_Sidekick_GoCommand	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\dx_sidekick_gocommand_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_UnitCommands\DX_Sidekick_GoCommand		11068
+	680242150	FX_3D_WaterSplash	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\bodyfall_deepwater1_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Liquid\FX_3D_WaterSplash		17195
+	698491332	Foot_Dirt1_BootWalk02	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootwalk02_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Movement\FX_2D_Footsteps\Foot_Dirt1_BootWalk02		7155
+	701304591	FX_2D_Klaxon_Loop	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\alarm_klaxon_loop1_444760e0.wem		\Actor-Mixer Hierarchy\FX\2D\Alarms-Indicators\FX_2D_Klaxon_Loop		23176
+	709711836	Foot_Dirt1_BootWalk10	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootwalk10_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Movement\FX_2D_Footsteps\Foot_Dirt1_BootWalk10		6995
+	715974961	DX_Sidekick_Death_01	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\dx_sidekick_death_01_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Death\DX_Sidekick_Death_01		13540
+	724412770	65Corvette_IdleLoop1	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\65corvette_idleloop1_444760e0.wem		\Actor-Mixer Hierarchy\FX\3D\Vehicles\FX_3D_Car_Loop\65Corvette_IdleLoop1		45307
+	726946176	Agent_Hit_beanbag_02	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\agent_hit_beanbag_02_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Hurt\Agent_Hit_beanbag_02		3955
+	730502804	PS_Level1	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\ps_level1_ab9e423e.wem		\Interactive Music Hierarchy\Default Work Unit\PS_Level1\PS_Level1\PS_Level1		3072288
+	731603349	PS_Enemy_JunkHulk	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\ps_enemy_junkhulk_ab9e423e.wem		\Interactive Music Hierarchy\Default Work Unit\PS_Enemy_JunkHulk\PS_Enemy_JunkHulk\PS_Enemy_JunkHulk		3072288
+	749557529	FX_2D_Beep	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\beep_grenadebombtimer1_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Alarms-Indicators\FX_2D_Beep		6317
+	756180659	PS_Level2	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\ps_level2_ab9e423e.wem		\Interactive Music Hierarchy\Default Work Unit\PS_Level2\PS_Level2\PS_Level2		3072288
+	757819000	Agent_Hit_Bullet_04	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\agent_hit_bullet_04_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Hurt\Agent_Hit_Bullet_04		5371
+	793147095	Henchmen_02_Orders_01	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\henchmen_02_orders_01_444760e1.wem		\Actor-Mixer Hierarchy\DX\3D\DX_3D_Aggro\Henchmen_02_Orders_01		21047
+	799561220	Foot_Dirt1_BootLand7	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootland7_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Movement\FX_2D_Land\Foot_Dirt1_BootLand7		8655
+	807494317	Henchmen_02_Orders_02	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\henchmen_02_orders_02_444760e1.wem		\Actor-Mixer Hierarchy\DX\3D\DX_3D_Aggro\Henchmen_02_Orders_02		30734
+	809914271	Agent_Jump_01	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\agent_jump_01_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Jump\Agent_Jump_01		6527
+	813779090	Game_play_music_02_Loop	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\game_play_music_02_loop_037aa0ce.wem		\Interactive Music Hierarchy\Default Work Unit\MX_MusicLoop_02\Game_play_music_02_Loop\Game_play_music_02_Loop		803233
+	814015474	PS_Level4	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\ps_level4_ab9e423e.wem		\Interactive Music Hierarchy\Default Work Unit\PS_Level4\PS_Level4\PS_Level4		3072288
+	838141253	Agent_Land_02	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\agent_land_02_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Land\Agent_Land_02		5301
+	845196286	FX_3D_Lever-Switch	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\lever_largemetal_switch01_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Switches\FX_3D_Lever-Switch		6893
+	856642211	Agent_Hit_Bullet_03	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\agent_hit_bullet_03_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Hurt\Agent_Hit_Bullet_03		9089
+	869294581	FX_3D_SmashCrate	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\smash_woodbreak01_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Destructables\FX_3D_SmashCrate		11507
+	870510227	FX_2D_MenuMove-Hover	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\button_vendingmachine1_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Menu\FX_2D_MenuMove-Hover		4644
+	880182030	Gameplay_05	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\gameplay_05_037aa0ce.wem		\Interactive Music Hierarchy\Default Work Unit\MX_MusicLoop_05\MX_MusicLoop_05\Gameplay_05		5252198
+	907429488	Foot_Dirt1_BootWalk09	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\foot_dirt1_bootwalk09_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Movement\FX_2D_Footsteps\Foot_Dirt1_BootWalk09		8842
+	955280945	Agent_Jump_02	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\agent_jump_02_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Jump\Agent_Jump_02		6740
+	959721945	Agent_Hit_Bullet_01	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\agent_hit_bullet_01_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Hurt\Agent_Hit_Bullet_01		6848
+	971806798	Gameplay_04	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\gameplay_04_037aa0ce.wem		\Interactive Music Hierarchy\Default Work Unit\MX_MusicLoop_04\MX_MusicLoop_04\Gameplay_04		3373363
+	980550765	PS_LevelDarkCarnival	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\ps_leveldarkcarnival_ab9e423e.wem		\Interactive Music Hierarchy\Default Work Unit\PS_LevelDarkCarnival\PS_LevelDarkCarnival\PS_LevelDarkCarnival		3072288
+	981389914	DX_Sidekick_Death_04	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\dx_sidekick_death_04_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Death\DX_Sidekick_Death_04		15794
+	991622778	Explo_Small_02	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\explo_small_02_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Explosions\FX_3D_Explosion\Explo_Small_02		24223
+	996787749	FX_2D_MenuUnPause	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\menu_backup09_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Menu\FX_2D_MenuUnPause		9596
+	1011476984	Henchmen_01_Death_01	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\henchmen_01_death_01_444760e1.wem		\Actor-Mixer Hierarchy\DX\3D\DX_3D_Death\Henchmen_01_Death_01		15724
+	1014982202	FX_2D_MenuAccept	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\menu_accept_444760e1.wem		\Actor-Mixer Hierarchy\FX\2D\Menu\FX_2D_MenuAccept		15371
+	1017029353	Game_play_music_01_Loop	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\game_play_music_01_loop_037aa0ce.wem		\Interactive Music Hierarchy\Default Work Unit\MX_MusicLoop_01\Game_play_music_01_Loop\Game_play_music_01_Loop		1008279
+	1023247839	FX_2D_Rain_Loop	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\rain_loop01_444760e0.wem		\Actor-Mixer Hierarchy\FX\2D\Ambience\FX_2D_Rain_Loop		31475
+	1046394917	Explo_Small_03	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\explo_small_03_444760e1.wem		\Actor-Mixer Hierarchy\FX\3D\Explosions\FX_3D_Explosion\Explo_Small_03		21016
+	1046506901	DX_Sidekick_Death_03	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\dx_sidekick_death_03_444760e1.wem		\Actor-Mixer Hierarchy\DX\2D\DX_2D_Death\DX_Sidekick_Death_03		12042
+	1048482320	StatScreen	D:\_Wwise Projects\Wwise_2010_PH\.cache\Windows\sfx\statscreen_037aa0ce.wem		\Interactive Music Hierarchy\Default Work Unit\MX_MusicLoop_06\MX_MusicLoop_06\StatScreen		1380670
+

@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" SchemaVersion="9">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\FrozenFlame\Game\Resource\Sound\Soundbanks\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<Arguments />
+	<DialogueEvents />
+	<StreamedFiles />
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedEvents />
+			<IncludedDialogueEvents />
+			<ReferencedStreamedFiles />
+			<IncludedFullFiles />
+			<IncludedPrefetchFiles />
+			<ExternalSources />
+		</SoundBank>
+		<SoundBank Id="1661994096" Language="SFX">
+			<ShortName>SoundBank</ShortName>
+			<Path>SoundBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3864097025" Name="Pause_All" />
+				<Event Id="3474777521" Name="Pause_SFX_Burning" />
+				<Event Id="728385520" Name="Pause_SFX_Heartbeat" />
+				<Event Id="4021470358" Name="Play_DX_Player_RageRoar" />
+				<Event Id="2004057136" Name="Play_DX_PlayerDie" />
+				<Event Id="2095731649" Name="Play_DX_PlayerHurt" />
+				<Event Id="3753599830" Name="Play_DX_WizardDeath" />
+				<Event Id="525385203" Name="Play_DX_WizardLaugh" />
+				<Event Id="3902843132" Name="Play_DX_WizardTaunt" />
+				<Event Id="1488084211" Name="Play_FX_Crystal_Spawn" />
+				<Event Id="3283313785" Name="Play_FX_ExplosiveMinion_Approach" />
+				<Event Id="3278789388" Name="Play_FX_FIREGOLEM_COLLISION" />
+				<Event Id="1505302249" Name="Play_FX_FireGolem_CurlUp" />
+				<Event Id="3473395898" Name="Play_FX_FireGolem_Death" />
+				<Event Id="252112453" Name="Play_FX_FireTrap_Eruption" />
+				<Event Id="3503038425" Name="Play_FX_FireTrap_WarningLoop" />
+				<Event Id="1430748238" Name="Play_FX_IceBlockShatter" />
+				<Event Id="2849385633" Name="Play_FX_IceGolem_BreathAttack" />
+				<Event Id="4135782011" Name="Play_FX_IceGolem_Death" />
+				<Event Id="3475228252" Name="Play_FX_ICEGOLEM_WALK" />
+				<Event Id="293413252" Name="Play_FX_MeleeMinion_Death" />
+				<Event Id="2759041521" Name="Play_FX_MeleeMinion_Hurt" />
+				<Event Id="1975976335" Name="Play_FX_MeleeMinion_Screaming" />
+				<Event Id="2087132325" Name="Play_FX_MENU_EXIT" />
+				<Event Id="3595149426" Name="Play_FX_MENU_MOVEMENT" />
+				<Event Id="2623978073" Name="Play_FX_METEOR_LAND" />
+				<Event Id="3026474063" Name="Play_FX_PortalAmbient" />
+				<Event Id="3529213744" Name="Play_FX_SMALL_FLESHY_EXPLOSION" />
+				<Event Id="2050378872" Name="Play_FX_SwordHit_FireGolem" />
+				<Event Id="1951936183" Name="Play_FX_SwordHit_IceGolem" />
+				<Event Id="222396378" Name="Play_FX_SwordHit_MeleeMinion" />
+				<Event Id="2468811861" Name="Play_FX_SwordHit_Projectile" />
+				<Event Id="2211008349" Name="Play_FX_WIZARD_CHARGE_EXPLOSION" />
+				<Event Id="133792310" Name="Play_FX_WIZARD_CRASH" />
+				<Event Id="3801581061" Name="Play_FX_WIZARD_EXHAUST" />
+				<Event Id="2634006578" Name="Play_FX_WIZARD_EXPLOSION" />
+				<Event Id="4134586525" Name="Play_FX_WIZARD_HYPERDASH" />
+				<Event Id="2259182416" Name="Play_FX_WIZARD_HYPERDASH_SPIN" />
+				<Event Id="1792738312" Name="Play_FX_WIZARD_HYPERORB" />
+				<Event Id="473498603" Name="Play_FX_WIZARD_HYPERORB_CHARGE" />
+				<Event Id="73539141" Name="Play_FX_WIZARTTAUNT_Death" />
+				<Event Id="3674118405" Name="Play_FX_WIZARTTAUNT_DONEWELL" />
+				<Event Id="3541861885" Name="Play_FX_WIZARTTAUNT_FULLPOWER" />
+				<Event Id="2423202298" Name="Play_FX_WIZARTTAUNT_IMPOSSIBLE" />
+				<Event Id="3160136641" Name="Play_FX_WIZARTTAUNT_STRONGER" />
+				<Event Id="3328818171" Name="Play_FX_WIZARTTAUNT_SURVIVED" />
+				<Event Id="624073168" Name="Play_FX_WIZARTTAUNT_VERMIN" />
+				<Event Id="3866359885" Name="Play_MX_Defeat" />
+				<Event Id="368551784" Name="Play_MX_GamePlay" />
+				<Event Id="1924038202" Name="Play_MX_MainMenu" />
+				<Event Id="909291862" Name="Play_MX_Victory" />
+				<Event Id="1493035759" Name="Play_SFX_Burning" />
+				<Event Id="447361031" Name="Play_SFX_Crash" />
+				<Event Id="2514707895" Name="Play_SFX_Explosion" />
+				<Event Id="2620823794" Name="Play_SFX_Extinguish" />
+				<Event Id="1818641459" Name="Play_SFX_Freeze" />
+				<Event Id="4054446234" Name="Play_SFX_Heartbeat" />
+				<Event Id="2405325207" Name="Play_SFX_PickUpObject" />
+				<Event Id="2643122482" Name="Play_SFX_PlayerWalk" />
+				<Event Id="1281523905" Name="Play_SFX_Release" />
+				<Event Id="3305118607" Name="Play_SFX_Roll" />
+				<Event Id="3750479633" Name="Play_SFX_SpellCast" />
+				<Event Id="3444481569" Name="Play_SFX_Squish" />
+				<Event Id="1150619856" Name="Play_SFX_SwordHit" />
+				<Event Id="634560299" Name="Play_SFX_SwordHit_Crystal" />
+				<Event Id="3914754973" Name="Play_SFX_SwordSwing" />
+				<Event Id="1721105142" Name="Play_SFX_Throw" />
+				<Event Id="1150518804" Name="Play_SFX_Thump" />
+				<Event Id="633580872" Name="Play_SFX_Whoosh" />
+				<Event Id="2120629638" Name="Play_SFX_WIZARD_SUMMONTRAP" />
+				<Event Id="3482279041" Name="Play_SFX_WIZARD_SUMMONTRAP_FIRE" />
+				<Event Id="3045744030" Name="Play_SFX_WIZARD_SUMMONTRAP_ICE" />
+				<Event Id="3679762312" Name="Resume_All" />
+				<Event Id="3458058384" Name="Resume_SFX_Burning" />
+				<Event Id="3946268013" Name="Resume_SFX_Heartbeat" />
+				<Event Id="452547817" Name="Stop_All" />
+				<Event Id="150186547" Name="Stop_FX_ExplosiveMinion_Approach" />
+				<Event Id="4157289558" Name="Stop_FX_FireTrap_Erupting_Loop" />
+				<Event Id="2595929055" Name="Stop_FX_FireTrap_WarningLoop" />
+				<Event Id="644236253" Name="Stop_FX_PortalAmbient" />
+				<Event Id="980464551" Name="Stop_MX_Defeat" />
+				<Event Id="3165009754" Name="Stop_MX_GamePlay" />
+				<Event Id="4272494312" Name="Stop_MX_MainMenu" />
+				<Event Id="344893480" Name="Stop_MX_Victory" />
+				<Event Id="797871433" Name="Stop_SFX_Burning" />
+				<Event Id="603257448" Name="Stop_SFX_Heartbeat" />
+			</IncludedEvents>
+			<IncludedDialogueEvents />
+			<ReferencedStreamedFiles />
+			<IncludedFullFiles>
+				<File Id="963047911" Language="SFX">
+					<ShortName>DX_Player_RageRoar.wav</ShortName>
+					<Path>sfx\dx_player_rageroar_4f27f02b.wem</Path>
+				</File>
+				<File Id="161636980" Language="SFX">
+					<ShortName>DX_PlayerDie.wav</ShortName>
+					<Path>sfx\dx_playerdie_4f27f02b.wem</Path>
+				</File>
+				<File Id="175277818" Language="SFX">
+					<ShortName>DX_WizardDeath.wav</ShortName>
+					<Path>sfx\dx_wizarddeath_4f27f02b.wem</Path>
+				</File>
+				<File Id="386662155" Language="SFX">
+					<ShortName>DX_WizardLaugh.wav</ShortName>
+					<Path>sfx\dx_wizardlaugh_4f27f02b.wem</Path>
+				</File>
+				<File Id="312480718" Language="SFX">
+					<ShortName>DX_WizardTaunt1.wav</ShortName>
+					<Path>sfx\dx_wizardtaunt1_4f27f02b.wem</Path>
+				</File>
+				<File Id="377976014" Language="SFX">
+					<ShortName>DX_WizardTaunt2.wav</ShortName>
+					<Path>sfx\dx_wizardtaunt2_4f27f02b.wem</Path>
+				</File>
+				<File Id="554389618" Language="SFX">
+					<ShortName>DX_WizardTaunt3.wav</ShortName>
+					<Path>sfx\dx_wizardtaunt3_4f27f02b.wem</Path>
+				</File>
+				<File Id="829651427" Language="SFX">
+					<ShortName>FX_Crystal_Spawn.wav</ShortName>
+					<Path>sfx\fx_crystal_spawn_4f27f02b.wem</Path>
+				</File>
+				<File Id="537952949" Language="SFX">
+					<ShortName>FX_ExplosiveMinion_Approach.wav</ShortName>
+					<Path>sfx\fx_explosiveminion_approach_4f27f02a.wem</Path>
+				</File>
+				<File Id="974687786" Language="SFX">
+					<ShortName>FX_FireGolem_CurlUp.wav</ShortName>
+					<Path>sfx\fx_firegolem_curlup_4f27f02b.wem</Path>
+				</File>
+				<File Id="366061997" Language="SFX">
+					<ShortName>FX_FireGolem_CurlUp_Unbuffered.wav</ShortName>
+					<Path>sfx\fx_firegolem_curlup_unbuffered_4f27f02b.wem</Path>
+				</File>
+				<File Id="661684434" Language="SFX">
+					<ShortName>FX_FireGolem_Death.wav</ShortName>
+					<Path>sfx\fx_firegolem_death_4f27f02b.wem</Path>
+				</File>
+				<File Id="866240971" Language="SFX">
+					<ShortName>FX_FireTrap_Erupting_Loop.wav</ShortName>
+					<Path>sfx\fx_firetrap_erupting_loop_4f27f02a.wem</Path>
+				</File>
+				<File Id="477060531" Language="SFX">
+					<ShortName>FX_FireTrap_Eruption.wav</ShortName>
+					<Path>sfx\fx_firetrap_eruption_4f27f02b.wem</Path>
+				</File>
+				<File Id="661103807" Language="SFX">
+					<ShortName>FX_FireTrap_WarningLoop.wav</ShortName>
+					<Path>sfx\fx_firetrap_warningloop_4f27f02a.wem</Path>
+				</File>
+				<File Id="895016795" Language="SFX">
+					<ShortName>FX_IceBlockShatter.wav</ShortName>
+					<Path>sfx\fx_iceblockshatter_4f27f02b.wem</Path>
+				</File>
+				<File Id="475864631" Language="SFX">
+					<ShortName>FX_IceGolem_BreathAttack.wav</ShortName>
+					<Path>sfx\fx_icegolem_breathattack_4f27f02b.wem</Path>
+				</File>
+				<File Id="798966876" Language="SFX">
+					<ShortName>FX_IceGolem_Death.wav</ShortName>
+					<Path>sfx\fx_icegolem_death_4f27f02b.wem</Path>
+				</File>
+				<File Id="610255229" Language="SFX">
+					<ShortName>FX_ICEGOLEM_WALK_01.wav</ShortName>
+					<Path>sfx\fx_icegolem_walk_01_4f27f02b.wem</Path>
+				</File>
+				<File Id="73794135" Language="SFX">
+					<ShortName>FX_ICEGOLEM_WALK_02.wav</ShortName>
+					<Path>sfx\fx_icegolem_walk_02_4f27f02b.wem</Path>
+				</File>
+				<File Id="798190273" Language="SFX">
+					<ShortName>FX_MeleeMinion_Death_01.wav</ShortName>
+					<Path>sfx\fx_meleeminion_death_01_4f27f02b.wem</Path>
+				</File>
+				<File Id="60327788" Language="SFX">
+					<ShortName>FX_MeleeMinion_Death_02.wav</ShortName>
+					<Path>sfx\fx_meleeminion_death_02_4f27f02b.wem</Path>
+				</File>
+				<File Id="539891136" Language="SFX">
+					<ShortName>FX_MeleeMinion_Death_03.wav</ShortName>
+					<Path>sfx\fx_meleeminion_death_03_4f27f02b.wem</Path>
+				</File>
+				<File Id="651456531" Language="SFX">
+					<ShortName>FX_MeleeMinion_Death_04.wav</ShortName>
+					<Path>sfx\fx_meleeminion_death_04_4f27f02b.wem</Path>
+				</File>
+				<File Id="169243357" Language="SFX">
+					<ShortName>FX_MeleeMinion_Death_05.wav</ShortName>
+					<Path>sfx\fx_meleeminion_death_05_4f27f02b.wem</Path>
+				</File>
+				<File Id="1047861576" Language="SFX">
+					<ShortName>FX_MeleeMinion_Hurt_01.wav</ShortName>
+					<Path>sfx\fx_meleeminion_hurt_01_4f27f02b.wem</Path>
+				</File>
+				<File Id="1066421446" Language="SFX">
+					<ShortName>FX_MeleeMinion_Hurt_02.wav</ShortName>
+					<Path>sfx\fx_meleeminion_hurt_02_4f27f02b.wem</Path>
+				</File>
+				<File Id="464523387" Language="SFX">
+					<ShortName>FX_MeleeMinion_Hurt_03.wav</ShortName>
+					<Path>sfx\fx_meleeminion_hurt_03_4f27f02b.wem</Path>
+				</File>
+				<File Id="112624913" Language="SFX">
+					<ShortName>FX_MeleeMinion_Hurt_04.wav</ShortName>
+					<Path>sfx\fx_meleeminion_hurt_04_4f27f02b.wem</Path>
+				</File>
+				<File Id="502118407" Language="SFX">
+					<ShortName>FX_MeleeMinion_Hurt_05.wav</ShortName>
+					<Path>sfx\fx_meleeminion_hurt_05_4f27f02b.wem</Path>
+				</File>
+				<File Id="1071076347" Language="SFX">
+					<ShortName>FX_MeleeMinion_Hurt_06.wav</ShortName>
+					<Path>sfx\fx_meleeminion_hurt_06_4f27f02b.wem</Path>
+				</File>
+				<File Id="277095196" Language="SFX">
+					<ShortName>FX_MeleeMinion_Screaming_01.wav</ShortName>
+					<Path>sfx\fx_meleeminion_screaming_01_4f27f02b.wem</Path>
+				</File>
+				<File Id="116830049" Language="SFX">
+					<ShortName>FX_MeleeMinion_Screaming.wav</ShortName>
+					<Path>sfx\fx_meleeminion_screaming_4f27f02b.wem</Path>
+				</File>
+				<File Id="168536280" Language="SFX">
+					<ShortName>FX_MENU_EXIT.wav</ShortName>
+					<Path>sfx\fx_menu_exit_4f27f02b.wem</Path>
+				</File>
+				<File Id="937924517" Language="SFX">
+					<ShortName>FX_MENU_MOVEMENT.wav</ShortName>
+					<Path>sfx\fx_menu_movement_4f27f02b.wem</Path>
+				</File>
+				<File Id="592983643" Language="SFX">
+					<ShortName>FX_METEOR_LAND_01.wav</ShortName>
+					<Path>sfx\fx_meteor_land_01_4f27f02b.wem</Path>
+				</File>
+				<File Id="871456551" Language="SFX">
+					<ShortName>FX_METEOR_LAND_02.wav</ShortName>
+					<Path>sfx\fx_meteor_land_02_4f27f02b.wem</Path>
+				</File>
+				<File Id="314667747" Language="SFX">
+					<ShortName>FX_METEOR_LAND_03.wav</ShortName>
+					<Path>sfx\fx_meteor_land_03_4f27f02b.wem</Path>
+				</File>
+				<File Id="526936457" Language="SFX">
+					<ShortName>FX_METEOR_LAND_04.wav</ShortName>
+					<Path>sfx\fx_meteor_land_04_4f27f02b.wem</Path>
+				</File>
+				<File Id="938059819" Language="SFX">
+					<ShortName>FX_METEOR_SUMMON_THING.wav</ShortName>
+					<Path>sfx\fx_meteor_summon_thing_4f27f02b.wem</Path>
+				</File>
+				<File Id="342871240" Language="SFX">
+					<ShortName>FX_PortalAmbient.wav</ShortName>
+					<Path>sfx\fx_portalambient_4f27f02a.wem</Path>
+				</File>
+				<File Id="764795709" Language="SFX">
+					<ShortName>FX_SMALL_FLESHY_EXPLOSION.wav</ShortName>
+					<Path>sfx\fx_small_fleshy_explosion_4f27f02b.wem</Path>
+				</File>
+				<File Id="358099844" Language="SFX">
+					<ShortName>FX_SwordHit_FireGolem_02.wav</ShortName>
+					<Path>sfx\fx_swordhit_firegolem_02_4f27f02b.wem</Path>
+				</File>
+				<File Id="69772967" Language="SFX">
+					<ShortName>FX_SwordHit_FireGolem.wav</ShortName>
+					<Path>sfx\fx_swordhit_firegolem_4f27f02b.wem</Path>
+				</File>
+				<File Id="527883737" Language="SFX">
+					<ShortName>FX_SwordHit_IceGolem_01.wav</ShortName>
+					<Path>sfx\fx_swordhit_icegolem_01_4f27f02b.wem</Path>
+				</File>
+				<File Id="599053293" Language="SFX">
+					<ShortName>FX_SwordHit_IceGolem_02.wav</ShortName>
+					<Path>sfx\fx_swordhit_icegolem_02_4f27f02b.wem</Path>
+				</File>
+				<File Id="188280770" Language="SFX">
+					<ShortName>FX_SwordHit_MeleeMinion_01.wav</ShortName>
+					<Path>sfx\fx_swordhit_meleeminion_01_4f27f02b.wem</Path>
+				</File>
+				<File Id="517844940" Language="SFX">
+					<ShortName>FX_SwordHit_MeleeMinion_02.wav</ShortName>
+					<Path>sfx\fx_swordhit_meleeminion_02_4f27f02b.wem</Path>
+				</File>
+				<File Id="86233953" Language="SFX">
+					<ShortName>FX_SwordHit_Projectile.wav</ShortName>
+					<Path>sfx\fx_swordhit_projectile_4f27f02b.wem</Path>
+				</File>
+				<File Id="366543588" Language="SFX">
+					<ShortName>FX_WIZARD_CHARGE_EXPLOSION.wav</ShortName>
+					<Path>sfx\fx_wizard_charge_explosion_4f27f02b.wem</Path>
+				</File>
+				<File Id="437125263" Language="SFX">
+					<ShortName>FX_WIZARD_CRASH.wav</ShortName>
+					<Path>sfx\fx_wizard_crash_4f27f02b.wem</Path>
+				</File>
+				<File Id="964408459" Language="SFX">
+					<ShortName>FX_WIZARD_EXHAUST.wav</ShortName>
+					<Path>sfx\fx_wizard_exhaust_4f27f02b.wem</Path>
+				</File>
+				<File Id="101490571" Language="SFX">
+					<ShortName>FX_WIZARD_EXPLOSION.wav</ShortName>
+					<Path>sfx\fx_wizard_explosion_4f27f02b.wem</Path>
+				</File>
+				<File Id="184050112" Language="SFX">
+					<ShortName>FX_WIZARD_HYPERDASH.wav</ShortName>
+					<Path>sfx\fx_wizard_hyperdash_4f27f02b.wem</Path>
+				</File>
+				<File Id="961748203" Language="SFX">
+					<ShortName>FX_WIZARD_HYPERDASH_SPIN.wav</ShortName>
+					<Path>sfx\fx_wizard_hyperdash_spin_4f27f02b.wem</Path>
+				</File>
+				<File Id="991250637" Language="SFX">
+					<ShortName>FX_WIZARD_HYPERORB.wav</ShortName>
+					<Path>sfx\fx_wizard_hyperorb_4f27f02b.wem</Path>
+				</File>
+				<File Id="919390801" Language="SFX">
+					<ShortName>FX_WIZARD_HYPERORB_CHARGE.wav</ShortName>
+					<Path>sfx\fx_wizard_hyperorb_charge_4f27f02b.wem</Path>
+				</File>
+				<File Id="974290201" Language="SFX">
+					<ShortName>FX_WIZARD_SUMMON_METEORS.wav</ShortName>
+					<Path>sfx\fx_wizard_summon_meteors_4f27f02b.wem</Path>
+				</File>
+				<File Id="851921584" Language="SFX">
+					<ShortName>FX_WIZARTTAUNT_Death.wav</ShortName>
+					<Path>sfx\fx_wizarttaunt_death_4f27f02b.wem</Path>
+				</File>
+				<File Id="1040802327" Language="SFX">
+					<ShortName>FX_WIZARTTAUNT_DONEWELL.wav</ShortName>
+					<Path>sfx\fx_wizarttaunt_donewell_4f27f02b.wem</Path>
+				</File>
+				<File Id="397791379" Language="SFX">
+					<ShortName>FX_WIZARTTAUNT_FULLPOWER.wav</ShortName>
+					<Path>sfx\fx_wizarttaunt_fullpower_4f27f02b.wem</Path>
+				</File>
+				<File Id="287645565" Language="SFX">
+					<ShortName>FX_WIZARTTAUNT_IMPOSSIBLE.wav</ShortName>
+					<Path>sfx\fx_wizarttaunt_impossible_4f27f02b.wem</Path>
+				</File>
+				<File Id="791777426" Language="SFX">
+					<ShortName>FX_WIZARTTAUNT_STRONGER.wav</ShortName>
+					<Path>sfx\fx_wizarttaunt_stronger_4f27f02b.wem</Path>
+				</File>
+				<File Id="189802958" Language="SFX">
+					<ShortName>FX_WIZARTTAUNT_SURVIVED.wav</ShortName>
+					<Path>sfx\fx_wizarttaunt_survived_4f27f02b.wem</Path>
+				</File>
+				<File Id="666436472" Language="SFX">
+					<ShortName>FX_WIZARTTAUNT_VERMIN.wav</ShortName>
+					<Path>sfx\fx_wizarttaunt_vermin_4f27f02b.wem</Path>
+				</File>
+				<File Id="478858956" Language="SFX">
+					<ShortName>MX_DEFEAT.wav</ShortName>
+					<Path>sfx\mx_defeat_ab9e423e.wem</Path>
+				</File>
+				<File Id="165113989" Language="SFX">
+					<ShortName>MX_GamePlay.wav</ShortName>
+					<Path>sfx\mx_gameplay_4f27f02a.wem</Path>
+				</File>
+				<File Id="679006382" Language="SFX">
+					<ShortName>MX_MainMenu.wav</ShortName>
+					<Path>sfx\mx_mainmenu_4f27f02a.wem</Path>
+				</File>
+				<File Id="36994302" Language="SFX">
+					<ShortName>MX_VICTORY.wav</ShortName>
+					<Path>sfx\mx_victory_ab9e423e.wem</Path>
+				</File>
+				<File Id="42831143" Language="SFX">
+					<ShortName>SFX_Burning.wav</ShortName>
+					<Path>sfx\sfx_burning_4f27f02a.wem</Path>
+				</File>
+				<File Id="267529023" Language="SFX">
+					<ShortName>SFX_Crash.wav</ShortName>
+					<Path>sfx\sfx_crash_4f27f02b.wem</Path>
+				</File>
+				<File Id="429901942" Language="SFX">
+					<ShortName>SFX_Explosion.wav</ShortName>
+					<Path>sfx\sfx_explosion_4f27f02b.wem</Path>
+				</File>
+				<File Id="609585804" Language="SFX">
+					<ShortName>SFX_Extinguish.wav</ShortName>
+					<Path>sfx\sfx_extinguish_4f27f02b.wem</Path>
+				</File>
+				<File Id="980840435" Language="SFX">
+					<ShortName>SFX_Freeze.wav</ShortName>
+					<Path>sfx\sfx_freeze_4f27f02b.wem</Path>
+				</File>
+				<File Id="48844377" Language="SFX">
+					<ShortName>SFX_Heartbeat.wav</ShortName>
+					<Path>sfx\sfx_heartbeat_4f27f02a.wem</Path>
+				</File>
+				<File Id="590333427" Language="SFX">
+					<ShortName>SFX_PickUpObject.wav</ShortName>
+					<Path>sfx\sfx_pickupobject_4f27f02b.wem</Path>
+				</File>
+				<File Id="441921280" Language="SFX">
+					<ShortName>SFX_Player_VOX_Take_Damage_01.wav</ShortName>
+					<Path>sfx\sfx_player_vox_take_damage_01_4f27f02b.wem</Path>
+				</File>
+				<File Id="613523661" Language="SFX">
+					<ShortName>SFX_Player_VOX_Take_Damage_02.wav</ShortName>
+					<Path>sfx\sfx_player_vox_take_damage_02_4f27f02b.wem</Path>
+				</File>
+				<File Id="726093187" Language="SFX">
+					<ShortName>SFX_Player_VOX_Take_Damage_03.wav</ShortName>
+					<Path>sfx\sfx_player_vox_take_damage_03_4f27f02b.wem</Path>
+				</File>
+				<File Id="643097533" Language="SFX">
+					<ShortName>SFX_Player_VOX_Take_Damage_04.wav</ShortName>
+					<Path>sfx\sfx_player_vox_take_damage_04_4f27f02b.wem</Path>
+				</File>
+				<File Id="185285375" Language="SFX">
+					<ShortName>SFX_Player_VOX_Take_Damage_05.wav</ShortName>
+					<Path>sfx\sfx_player_vox_take_damage_05_4f27f02b.wem</Path>
+				</File>
+				<File Id="311812306" Language="SFX">
+					<ShortName>SFX_PlayerWalk.wav</ShortName>
+					<Path>sfx\sfx_playerwalk_4f27f02b.wem</Path>
+				</File>
+				<File Id="329899272" Language="SFX">
+					<ShortName>SFX_Release.wav</ShortName>
+					<Path>sfx\sfx_release_4f27f02b.wem</Path>
+				</File>
+				<File Id="280101749" Language="SFX">
+					<ShortName>SFX_Roll.wav</ShortName>
+					<Path>sfx\sfx_roll_4f27f02b.wem</Path>
+				</File>
+				<File Id="958973261" Language="SFX">
+					<ShortName>SFX_SpellCast.wav</ShortName>
+					<Path>sfx\sfx_spellcast_4f27f02b.wem</Path>
+				</File>
+				<File Id="933087926" Language="SFX">
+					<ShortName>SFX_Squish.wav</ShortName>
+					<Path>sfx\sfx_squish_4f27f02b.wem</Path>
+				</File>
+				<File Id="824074272" Language="SFX">
+					<ShortName>SFX_SwordHit.wav</ShortName>
+					<Path>sfx\sfx_swordhit_4f27f02b.wem</Path>
+				</File>
+				<File Id="495967606" Language="SFX">
+					<ShortName>SFX_SwordSwing1.wav</ShortName>
+					<Path>sfx\sfx_swordswing1_4f27f02b.wem</Path>
+				</File>
+				<File Id="725957045" Language="SFX">
+					<ShortName>SFX_SwordSwing2.wav</ShortName>
+					<Path>sfx\sfx_swordswing2_4f27f02b.wem</Path>
+				</File>
+				<File Id="322063477" Language="SFX">
+					<ShortName>SFX_SwordSwing3.wav</ShortName>
+					<Path>sfx\sfx_swordswing3_4f27f02b.wem</Path>
+				</File>
+				<File Id="523524158" Language="SFX">
+					<ShortName>SFX_Throw.wav</ShortName>
+					<Path>sfx\sfx_throw_4f27f02b.wem</Path>
+				</File>
+				<File Id="24320508" Language="SFX">
+					<ShortName>SFX_Thump.wav</ShortName>
+					<Path>sfx\sfx_thump_4f27f02b.wem</Path>
+				</File>
+				<File Id="1015868216" Language="SFX">
+					<ShortName>SFX_Whoosh.wav</ShortName>
+					<Path>sfx\sfx_whoosh_4f27f02b.wem</Path>
+				</File>
+				<File Id="1005166565" Language="SFX">
+					<ShortName>SFX_WIZARD_SUMMONTRAP.wav</ShortName>
+					<Path>sfx\sfx_wizard_summontrap_4f27f02b.wem</Path>
+				</File>
+				<File Id="849931182" Language="SFX">
+					<ShortName>SFX_WIZARD_SUMMONTRAP_FIRE.wav</ShortName>
+					<Path>sfx\sfx_wizard_summontrap_fire_4f27f02b.wem</Path>
+				</File>
+				<File Id="791583362" Language="SFX">
+					<ShortName>SFX_WIZARD_SUMMONTRAP_ICE.wav</ShortName>
+					<Path>sfx\sfx_wizard_summontrap_ice_4f27f02b.wem</Path>
+				</File>
+			</IncludedFullFiles>
+			<IncludedPrefetchFiles />
+			<ExternalSources />
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

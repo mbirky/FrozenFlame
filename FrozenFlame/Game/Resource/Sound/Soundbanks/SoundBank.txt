@@ -1,0 +1,186 @@
+Event	ID	Name			Wwise Object Path	Notes
+	73539141	Play_FX_WIZARTTAUNT_Death			\Default Work Unit\Play_FX_WIZARTTAUNT_Death	
+	133792310	Play_FX_WIZARD_CRASH			\Default Work Unit\Play_FX_WIZARD_CRASH	
+	150186547	Stop_FX_ExplosiveMinion_Approach			\Default Work Unit\Stop_FX_ExplosiveMinion_Approach	
+	222396378	Play_FX_SwordHit_MeleeMinion			\Default Work Unit\Play_FX_SwordHit_MeleeMinion	
+	252112453	Play_FX_FireTrap_Eruption			\Default Work Unit\Play_FX_FireTrap_Eruption	
+	293413252	Play_FX_MeleeMinion_Death			\Default Work Unit\Play_FX_MeleeMinion_Death	
+	344893480	Stop_MX_Victory			\Default Work Unit\Stop_MX_Victory	
+	368551784	Play_MX_GamePlay			\Default Work Unit\Play_MX_GamePlay	
+	447361031	Play_SFX_Crash			\Default Work Unit\Play_SFX_Crash	
+	452547817	Stop_All			\Default Work Unit\Stop_All	
+	473498603	Play_FX_WIZARD_HYPERORB_CHARGE			\Default Work Unit\Play_FX_WIZARD_HYPERORB_CHARGE	
+	525385203	Play_DX_WizardLaugh			\Default Work Unit\Play_DX_WizardLaugh	
+	603257448	Stop_SFX_Heartbeat			\Default Work Unit\Stop_SFX_Heartbeat	
+	624073168	Play_FX_WIZARTTAUNT_VERMIN			\Default Work Unit\Play_FX_WIZARTTAUNT_VERMIN	
+	633580872	Play_SFX_Whoosh			\Default Work Unit\Play_SFX_Whoosh	
+	634560299	Play_SFX_SwordHit_Crystal			\Default Work Unit\Play_SFX_SwordHit_Crystal	
+	644236253	Stop_FX_PortalAmbient			\Default Work Unit\Stop_FX_PortalAmbient	
+	728385520	Pause_SFX_Heartbeat			\Default Work Unit\Pause_SFX_Heartbeat	
+	797871433	Stop_SFX_Burning			\Default Work Unit\Stop_SFX_Burning	
+	909291862	Play_MX_Victory			\Default Work Unit\Play_MX_Victory	
+	980464551	Stop_MX_Defeat			\Default Work Unit\Stop_MX_Defeat	
+	1150518804	Play_SFX_Thump			\Default Work Unit\Play_SFX_Thump	
+	1150619856	Play_SFX_SwordHit			\Default Work Unit\Play_SFX_SwordHit	
+	1281523905	Play_SFX_Release			\Default Work Unit\Play_SFX_Release	
+	1430748238	Play_FX_IceBlockShatter			\Default Work Unit\Play_FX_IceBlockShatter	
+	1488084211	Play_FX_Crystal_Spawn			\Default Work Unit\Play_FX_Crystal_Spawn	
+	1493035759	Play_SFX_Burning			\Default Work Unit\Play_SFX_Burning	
+	1505302249	Play_FX_FireGolem_CurlUp			\Default Work Unit\Play_FX_FireGolem_CurlUp	
+	1721105142	Play_SFX_Throw			\Default Work Unit\Play_SFX_Throw	
+	1792738312	Play_FX_WIZARD_HYPERORB			\Default Work Unit\Play_FX_WIZARD_HYPERORB	
+	1818641459	Play_SFX_Freeze			\Default Work Unit\Play_SFX_Freeze	
+	1924038202	Play_MX_MainMenu			\Default Work Unit\Play_MX_MainMenu	
+	1951936183	Play_FX_SwordHit_IceGolem			\Default Work Unit\Play_FX_SwordHit_IceGolem	
+	1975976335	Play_FX_MeleeMinion_Screaming			\Default Work Unit\Play_FX_MeleeMinion_Screaming	
+	2004057136	Play_DX_PlayerDie			\Default Work Unit\Play_DX_PlayerDie	
+	2050378872	Play_FX_SwordHit_FireGolem			\Default Work Unit\Play_FX_SwordHit_FireGolem	
+	2087132325	Play_FX_MENU_EXIT			\Default Work Unit\Play_FX_MENU_EXIT	
+	2095731649	Play_DX_PlayerHurt			\Default Work Unit\Play_DX_PlayerHurt	
+	2120629638	Play_SFX_WIZARD_SUMMONTRAP			\Default Work Unit\Play_SFX_WIZARD_SUMMONTRAP	
+	2211008349	Play_FX_WIZARD_CHARGE_EXPLOSION			\Default Work Unit\Play_FX_WIZARD_CHARGE_EXPLOSION	
+	2259182416	Play_FX_WIZARD_HYPERDASH_SPIN			\Default Work Unit\Play_FX_WIZARD_HYPERDASH_SPIN	
+	2405325207	Play_SFX_PickUpObject			\Default Work Unit\Play_SFX_PickUpObject	
+	2423202298	Play_FX_WIZARTTAUNT_IMPOSSIBLE			\Default Work Unit\Play_FX_WIZARTTAUNT_IMPOSSIBLE	
+	2468811861	Play_FX_SwordHit_Projectile			\Default Work Unit\Play_FX_SwordHit_Projectile	
+	2514707895	Play_SFX_Explosion			\Default Work Unit\Play_SFX_Explosion	
+	2595929055	Stop_FX_FireTrap_WarningLoop			\Default Work Unit\Stop_FX_FireTrap_WarningLoop	
+	2620823794	Play_SFX_Extinguish			\Default Work Unit\Play_SFX_Extinguish	
+	2623978073	Play_FX_METEOR_LAND			\Default Work Unit\Play_FX_METEOR_LAND	
+	2634006578	Play_FX_WIZARD_EXPLOSION			\Default Work Unit\Play_FX_WIZARD_EXPLOSION	
+	2643122482	Play_SFX_PlayerWalk			\Default Work Unit\Play_SFX_PlayerWalk	
+	2759041521	Play_FX_MeleeMinion_Hurt			\Default Work Unit\Play_FX_MeleeMinion_Hurt	
+	2849385633	Play_FX_IceGolem_BreathAttack			\Default Work Unit\Play_FX_IceGolem_BreathAttack	
+	3026474063	Play_FX_PortalAmbient			\Default Work Unit\Play_FX_PortalAmbient	
+	3045744030	Play_SFX_WIZARD_SUMMONTRAP_ICE			\Default Work Unit\Play_SFX_WIZARD_SUMMONTRAP_ICE	
+	3160136641	Play_FX_WIZARTTAUNT_STRONGER			\Default Work Unit\Play_FX_WIZARTTAUNT_STRONGER	
+	3165009754	Stop_MX_GamePlay			\Default Work Unit\Stop_MX_GamePlay	
+	3278789388	Play_FX_FIREGOLEM_COLLISION			\Default Work Unit\Play_FX_FIREGOLEM_COLLISION	
+	3283313785	Play_FX_ExplosiveMinion_Approach			\Default Work Unit\Play_FX_ExplosiveMinion_Approach	
+	3305118607	Play_SFX_Roll			\Default Work Unit\Play_SFX_Roll	
+	3328818171	Play_FX_WIZARTTAUNT_SURVIVED			\Default Work Unit\Play_FX_WIZARTTAUNT_SURVIVED	
+	3444481569	Play_SFX_Squish			\Default Work Unit\Play_SFX_Squish	
+	3458058384	Resume_SFX_Burning			\Default Work Unit\Resume_SFX_Burning	
+	3473395898	Play_FX_FireGolem_Death			\Default Work Unit\Play_FX_FireGolem_Death	
+	3474777521	Pause_SFX_Burning			\Default Work Unit\Pause_SFX_Burning	
+	3475228252	Play_FX_ICEGOLEM_WALK			\Default Work Unit\Play_FX_ICEGOLEM_WALK	
+	3482279041	Play_SFX_WIZARD_SUMMONTRAP_FIRE			\Default Work Unit\Play_SFX_WIZARD_SUMMONTRAP_FIRE	
+	3503038425	Play_FX_FireTrap_WarningLoop			\Default Work Unit\Play_FX_FireTrap_WarningLoop	
+	3529213744	Play_FX_SMALL_FLESHY_EXPLOSION			\Default Work Unit\Play_FX_SMALL_FLESHY_EXPLOSION	
+	3541861885	Play_FX_WIZARTTAUNT_FULLPOWER			\Default Work Unit\Play_FX_WIZARTTAUNT_FULLPOWER	
+	3595149426	Play_FX_MENU_MOVEMENT			\Default Work Unit\Play_FX_MENU_MOVEMENT	
+	3674118405	Play_FX_WIZARTTAUNT_DONEWELL			\Default Work Unit\Play_FX_WIZARTTAUNT_DONEWELL	
+	3679762312	Resume_All			\Default Work Unit\Resume_All	
+	3750479633	Play_SFX_SpellCast			\Default Work Unit\Play_SFX_SpellCast	
+	3753599830	Play_DX_WizardDeath			\Default Work Unit\Play_DX_WizardDeath	
+	3801581061	Play_FX_WIZARD_EXHAUST			\Default Work Unit\Play_FX_WIZARD_EXHAUST	
+	3864097025	Pause_All			\Default Work Unit\Pause_All	
+	3866359885	Play_MX_Defeat			\Default Work Unit\Play_MX_Defeat	
+	3902843132	Play_DX_WizardTaunt			\Default Work Unit\Play_DX_WizardTaunt	
+	3914754973	Play_SFX_SwordSwing			\Default Work Unit\Play_SFX_SwordSwing	
+	3946268013	Resume_SFX_Heartbeat			\Default Work Unit\Resume_SFX_Heartbeat	
+	4021470358	Play_DX_Player_RageRoar			\Default Work Unit\Play_DX_Player_RageRoar	
+	4054446234	Play_SFX_Heartbeat			\Default Work Unit\Play_SFX_Heartbeat	
+	4134586525	Play_FX_WIZARD_HYPERDASH			\Default Work Unit\Play_FX_WIZARD_HYPERDASH	
+	4135782011	Play_FX_IceGolem_Death			\Default Work Unit\Play_FX_IceGolem_Death	
+	4157289558	Stop_FX_FireTrap_Erupting_Loop			\Default Work Unit\Stop_FX_FireTrap_Erupting_Loop	
+	4272494312	Stop_MX_MainMenu			\Default Work Unit\Stop_MX_MainMenu	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	24320508	SFX_Thump	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_thump_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Thump		3931
+	36994302	MX_VICTORY	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\mx_victory_ab9e423e.wem		\Interactive Music Hierarchy\Default Work Unit\MX_Victory\MX_VICTORY\MX_VICTORY		1207822
+	42831143	SFX_Burning	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_burning_4f27f02a.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Burning		40710
+	48844377	SFX_Heartbeat	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_heartbeat_4f27f02a.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Heartbeat		30139
+	60327788	FX_MeleeMinion_Death_02	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_meleeminion_death_02_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\MeleeMinion\FX_MeleeMinion_Death\FX_MeleeMinion_Death_02		9058
+	69772967	FX_SwordHit_FireGolem	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_swordhit_firegolem_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_SwordHit_FireGolem\FX_SwordHit_FireGolem		8621
+	73794135	FX_ICEGOLEM_WALK_02	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_icegolem_walk_02_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_ICEGOLEM_WALK\FX_ICEGOLEM_WALK_02		4320
+	86233953	FX_SwordHit_Projectile	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_swordhit_projectile_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_SwordHit_Projectile		4592
+	101490571	FX_WIZARD_EXPLOSION	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_wizard_explosion_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_WIZARD_EXPLOSION		22028
+	112624913	FX_MeleeMinion_Hurt_04	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_meleeminion_hurt_04_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\MeleeMinion\FX_MeleeMinion_Hurt\FX_MeleeMinion_Hurt_04		5230
+	116830049	FX_MeleeMinion_Screaming	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_meleeminion_screaming_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\MeleeMinion\FX_MeleeMinion_Screaming\FX_MeleeMinion_Screaming		19313
+	161636980	DX_PlayerDie	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\dx_playerdie_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\DX_PlayerDie		9754
+	165113989	MX_GamePlay	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\mx_gameplay_4f27f02a.wem		\Interactive Music Hierarchy\Default Work Unit\MX_GamePlay\MX_GamePlay\MX_GamePlay		2091243
+	168536280	FX_MENU_EXIT	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_menu_exit_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_MENU_EXIT		10240
+	169243357	FX_MeleeMinion_Death_05	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_meleeminion_death_05_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\MeleeMinion\FX_MeleeMinion_Death\FX_MeleeMinion_Death_05		9014
+	175277818	DX_WizardDeath	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\dx_wizarddeath_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\DX_WizardDeath		27725
+	184050112	FX_WIZARD_HYPERDASH	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_wizard_hyperdash_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_WIZARD_HYPERDASH		7363
+	185285375	SFX_Player_VOX_Take_Damage_05	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_player_vox_take_damage_05_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\DX_PlayerHurt\SFX_Player_VOX_Take_Damage_05		5686
+	188280770	FX_SwordHit_MeleeMinion_01	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_swordhit_meleeminion_01_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_SwordHit_MeleeMinion\FX_SwordHit_MeleeMinion_01		5031
+	189802958	FX_WIZARTTAUNT_SURVIVED	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_wizarttaunt_survived_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\Wizard\FX_WIZARTTAUNT_SURVIVED		32922
+	267529023	SFX_Crash	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_crash_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Crash		10398
+	277095196	FX_MeleeMinion_Screaming_01	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_meleeminion_screaming_01_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\MeleeMinion\FX_MeleeMinion_Screaming\FX_MeleeMinion_Screaming_01		20572
+	280101749	SFX_Roll	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_roll_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Roll		16450
+	287645565	FX_WIZARTTAUNT_IMPOSSIBLE	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_wizarttaunt_impossible_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\Wizard\FX_WIZARTTAUNT_IMPOSSIBLE		39995
+	311812306	SFX_PlayerWalk	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_playerwalk_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_PlayerWalk		4806
+	312480718	DX_WizardTaunt1	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\dx_wizardtaunt1_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\DX_WizardTaunt\DX_WizardTaunt1		9580
+	314667747	FX_METEOR_LAND_03	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_meteor_land_03_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_METEOR_LAND\FX_METEOR_LAND_03		9594
+	322063477	SFX_SwordSwing3	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_swordswing3_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_SwordSwing\SFX_SwordSwing3		1641
+	329899272	SFX_Release	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_release_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Release		8777
+	342871240	FX_PortalAmbient	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_portalambient_4f27f02a.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_PortalAmbient		16113
+	358099844	FX_SwordHit_FireGolem_02	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_swordhit_firegolem_02_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_SwordHit_FireGolem\FX_SwordHit_FireGolem_02		4636
+	366061997	FX_FIREGOLEM_COLLISION	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_firegolem_curlup_unbuffered_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_FIREGOLEM_COLLISION		28629
+	366543588	FX_WIZARD_CHARGE_EXPLOSION	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_wizard_charge_explosion_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_WIZARD_CHARGE_EXPLOSION		14244
+	377976014	DX_WizardTaunt2	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\dx_wizardtaunt2_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\DX_WizardTaunt\DX_WizardTaunt2		29982
+	386662155	DX_WizardLaugh	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\dx_wizardlaugh_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\DX_WizardLaugh		18300
+	397791379	FX_WIZARTTAUNT_FULLPOWER	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_wizarttaunt_fullpower_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\Wizard\FX_WIZARTTAUNT_FULLPOWER		31945
+	429901942	SFX_Explosion	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_explosion_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Explosion		7273
+	437125263	FX_WIZARD_CRASH	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_wizard_crash_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_WIZARD_CRASH		15895
+	441921280	SFX_Player_VOX_Take_Damage_01	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_player_vox_take_damage_01_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\DX_PlayerHurt\SFX_Player_VOX_Take_Damage_01		5133
+	464523387	FX_MeleeMinion_Hurt_03	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_meleeminion_hurt_03_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\MeleeMinion\FX_MeleeMinion_Hurt\FX_MeleeMinion_Hurt_03		6243
+	475864631	FX_IceGolem_BreathAttack	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_icegolem_breathattack_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_IceGolem_BreathAttack		17751
+	477060531	FX_FireTrap_Eruption	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_firetrap_eruption_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FireTrap\FX_FireTrap_Eruption		18480
+	478858956	MX_DEFEAT	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\mx_defeat_ab9e423e.wem		\Interactive Music Hierarchy\Default Work Unit\MX_Defeat\MX_DEFEAT\MX_DEFEAT		494688
+	495967606	SFX_SwordSwing1	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_swordswing1_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_SwordSwing\SFX_SwordSwing1		2559
+	502118407	FX_MeleeMinion_Hurt_05	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_meleeminion_hurt_05_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\MeleeMinion\FX_MeleeMinion_Hurt\FX_MeleeMinion_Hurt_05		5455
+	517844940	FX_SwordHit_MeleeMinion_02	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_swordhit_meleeminion_02_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_SwordHit_MeleeMinion\FX_SwordHit_MeleeMinion_02		4887
+	523524158	SFX_Throw	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_throw_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Throw		9313
+	526936457	FX_METEOR_LAND_04	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_meteor_land_04_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_METEOR_LAND\FX_METEOR_LAND_04		9121
+	527883737	FX_SwordHit_IceGolem_01	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_swordhit_icegolem_01_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_SwordHit_IceGolem\FX_SwordHit_IceGolem_01		5275
+	537952949	FX_ExplosiveMinion_Approach	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_explosiveminion_approach_4f27f02a.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_ExplosiveMinion_Approach		72327
+	539891136	FX_MeleeMinion_Death_03	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_meleeminion_death_03_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\MeleeMinion\FX_MeleeMinion_Death\FX_MeleeMinion_Death_03		8037
+	554389618	DX_WizardTaunt3	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\dx_wizardtaunt3_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\DX_WizardTaunt\DX_WizardTaunt3		27459
+	590333427	SFX_PickUpObject	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_pickupobject_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_PickUpObject		11045
+	592983643	FX_METEOR_LAND_01	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_meteor_land_01_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_METEOR_LAND\FX_METEOR_LAND_01		9318
+	599053293	FX_SwordHit_IceGolem_02	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_swordhit_icegolem_02_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_SwordHit_IceGolem\FX_SwordHit_IceGolem_02		4168
+	609585804	SFX_Extinguish	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_extinguish_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Extinguish		25934
+	610255229	FX_ICEGOLEM_WALK_01	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_icegolem_walk_01_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_ICEGOLEM_WALK\FX_ICEGOLEM_WALK_01		3906
+	613523661	SFX_Player_VOX_Take_Damage_02	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_player_vox_take_damage_02_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\DX_PlayerHurt\SFX_Player_VOX_Take_Damage_02		5524
+	643097533	SFX_Player_VOX_Take_Damage_04	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_player_vox_take_damage_04_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\DX_PlayerHurt\SFX_Player_VOX_Take_Damage_04		5197
+	651456531	FX_MeleeMinion_Death_04	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_meleeminion_death_04_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\MeleeMinion\FX_MeleeMinion_Death\FX_MeleeMinion_Death_04		11540
+	661103807	FX_FireTrap_WarningLoop	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_firetrap_warningloop_4f27f02a.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FireTrap\FX_FireTrap_WarningLoop		25129
+	661684434	FX_FireGolem_Death	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_firegolem_death_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_FireGolem_Death		19750
+	666436472	FX_WIZARTTAUNT_VERMIN	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_wizarttaunt_vermin_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\Wizard\FX_WIZARTTAUNT_VERMIN		30555
+	679006382	MX_MainMenu	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\mx_mainmenu_4f27f02a.wem		\Interactive Music Hierarchy\Default Work Unit\MX_MainMenu\MX_MainMenu\MX_MainMenu		697684
+	725957045	SFX_SwordSwing2	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_swordswing2_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_SwordSwing\SFX_SwordSwing2		1381
+	726093187	SFX_Player_VOX_Take_Damage_03	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_player_vox_take_damage_03_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\DX_PlayerHurt\SFX_Player_VOX_Take_Damage_03		5342
+	764795709	FX_SMALL_FLESHY_EXPLOSION	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_small_fleshy_explosion_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_SMALL_FLESHY_EXPLOSION		6167
+	791583362	SFX_WIZARD_SUMMONTRAP_ICE	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_wizard_summontrap_ice_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_WIZARD_SUMMONTRAP_ICE		19653
+	791777426	FX_WIZARTTAUNT_STRONGER	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_wizarttaunt_stronger_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\Wizard\FX_WIZARTTAUNT_STRONGER		35144
+	798190273	FX_MeleeMinion_Death_01	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_meleeminion_death_01_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\MeleeMinion\FX_MeleeMinion_Death\FX_MeleeMinion_Death_01		13108
+	798966876	FX_IceGolem_Death	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_icegolem_death_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_IceGolem_Death		24946
+	824074272	SFX_SwordHit	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_swordhit_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_SwordHit		5090
+	829651427	FX_Crystal_Spawn	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_crystal_spawn_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_Crystal_Spawn		21433
+	849931182	SFX_WIZARD_SUMMONTRAP_FIRE	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_wizard_summontrap_fire_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_WIZARD_SUMMONTRAP_FIRE		20301
+	851921584	FX_WIZARTTAUNT_Death	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_wizarttaunt_death_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\Wizard\FX_WIZARTTAUNT_Death		33020
+	866240971	FX_FireTrap_Erupting_Loop	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_firetrap_erupting_loop_4f27f02a.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FireTrap\FX_FireTrap_Erupting_Loop		40778
+	871456551	FX_METEOR_LAND_02	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_meteor_land_02_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_METEOR_LAND\FX_METEOR_LAND_02		11130
+	895016795	FX_IceBlockShatter	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_iceblockshatter_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_IceBlockShatter		8864
+	919390801	FX_WIZARD_HYPERORB_CHARGE	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_wizard_hyperorb_charge_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_WIZARD_HYPERORB_CHARGE		10265
+	933087926	SFX_Squish	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_squish_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Squish		4302
+	937924517	FX_MENU_MOVEMENT	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_menu_movement_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_MENU_MOVEMENT		3481
+	938059819	FX_METEOR_SUMMON_THING	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_meteor_summon_thing_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_WIZARD_SUMMON_METEOR\FX_METEOR_SUMMON_THING		6825
+	958973261	SFX_SpellCast	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_spellcast_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_SpellCast		8442
+	961748203	FX_WIZARD_HYPERDASH_SPIN	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_wizard_hyperdash_spin_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_WIZARD_HYPERDASH_SPIN		8378
+	963047911	DX_Player_RageRoar	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\dx_player_rageroar_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\DX_Player_RageRoar		27314
+	964408459	FX_WIZARD_EXHAUST	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_wizard_exhaust_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_WIZARD_EXHAUST		13001
+	974290201	FX_WIZARD_SUMMON_METEORS	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_wizard_summon_meteors_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_WIZARD_SUMMON_METEOR\FX_WIZARD_SUMMON_METEORS		6162
+	974687786	FX_FireGolem_CurlUp	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_firegolem_curlup_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_FireGolem_CurlUp		16442
+	980840435	SFX_Freeze	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_freeze_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Freeze		14842
+	991250637	FX_WIZARD_HYPERORB	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_wizard_hyperorb_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\FX_WIZARD_HYPERORB		11852
+	1005166565	SFX_WIZARD_SUMMONTRAP	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_wizard_summontrap_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_WIZARD_SUMMONTRAP		19130
+	1015868216	SFX_Whoosh	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\sfx_whoosh_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\SFX_Whoosh		4592
+	1040802327	FX_WIZARTTAUNT_DONEWELL	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_wizarttaunt_donewell_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\DX\Wizard\FX_WIZARTTAUNT_DONEWELL		46217
+	1047861576	FX_MeleeMinion_Hurt_01	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_meleeminion_hurt_01_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\MeleeMinion\FX_MeleeMinion_Hurt\FX_MeleeMinion_Hurt_01		7089
+	1066421446	FX_MeleeMinion_Hurt_02	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_meleeminion_hurt_02_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\MeleeMinion\FX_MeleeMinion_Hurt\FX_MeleeMinion_Hurt_02		4392
+	1071076347	FX_MeleeMinion_Hurt_06	C:\Users\Steven Seufert\Perforce\BitShiftWorkspace\Studios\1212 - Bit Bosses\8-bit Bacon\WwiseProject\8BitBacon\.cache\Windows\sfx\fx_meleeminion_hurt_06_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX\MeleeMinion\FX_MeleeMinion_Hurt\FX_MeleeMinion_Hurt_06		6424
+

@@ -1,0 +1,19 @@
+Event	ID	Name			Wwise Object Path	Notes
+	438285992	Stop_pac			\Default Work Unit\Stop_pac	
+	460763773	Resume_pacdie			\Default Work Unit\Resume_pacdie	
+	1594794658	Stop_pacdie			\Default Work Unit\Stop_pacdie	
+	1681212192	Play_pacdie			\Default Work Unit\Play_pacdie	
+	2164336142	Stop_Codec			\Default Work Unit\Stop_Codec	
+	2341606614	Pause_Codec			\Default Work Unit\Pause_Codec	
+	2804333227	Resume_Codec			\Default Work Unit\Resume_Codec	
+	2822502026	Play_pac			\Default Work Unit\Play_pac	
+	3198291496	Play_Codec			\Default Work Unit\Play_Codec	
+	3565129093	Resume_pac			\Default Work Unit\Resume_pac	
+	3581290464	Pause_pac			\Default Work Unit\Pause_pac	
+	3961065754	Pause_pacdie			\Default Work Unit\Pause_pacdie	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	168907668	pac	C:\Users\Robert\Documents\Visual Studio 2012\Projects\SoundTest2\FrozenFlame\.cache\Windows\sfx\pac_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\pac		400960
+	193121127	metalgearcodec	C:\Users\Robert\Documents\Visual Studio 2012\Projects\SoundTest2\FrozenFlame\.cache\Windows\sfx\metalgearcodec_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\metalgearcodec		329536
+	220746261	pacdie	C:\Users\Robert\Documents\Visual Studio 2012\Projects\SoundTest2\FrozenFlame\.cache\Windows\sfx\pacdie_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\pacdie		152128
+

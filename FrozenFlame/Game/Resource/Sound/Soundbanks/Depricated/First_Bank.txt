@@ -1,0 +1,9 @@
+Event	ID	Name			Wwise Object Path	Notes
+	999819758	Pause_Level_Sound			\Default Work Unit\Pause_Level_Sound	
+	1548978792	Play_Level_Sound			\Default Work Unit\Play_Level_Sound	
+	2759870726	Stop_Level_Sound			\Default Work Unit\Stop_Level_Sound	
+	3272931955	Resume_Level_Sound			\Default Work Unit\Resume_Level_Sound	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	336424035	Snow+World+(Winterbliss)+Castle+Crashers+Guitar+Cover	C:\Users\Robert\Documents\Visual Studio 2012\Projects\SoundTest2\FrozenFlame\.cache\Windows\sfx\snow+world+(winterbliss)+castle+crashers+guitar+cover_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Snow+World+(Winterbliss)+Castle+Crashers+Guitar+Cover		31785024
+

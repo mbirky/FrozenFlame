@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release Test|Win32">
+      <Configuration>Release Test</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{CB0575D3-F138-4A23-A08C-C170519FD061}</ProjectGuid>
+    <RootNamespace>Game</RootNamespace>
+    <ProjectName>Frozen Flame</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release Test|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release Test|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IncludePath>C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Include;C:\Program Files\Microsoft DirectX SDK %28June 2010%29\Include;C:\Program Files %28x86%29\Visual Leak Detector\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Lib\x86;C:\Program Files\Microsoft DirectX SDK %28June 2010%29\Lib\x86;C:\Program Files %28x86%29\Visual Leak Detector\lib\Win32;$(LibraryPath)</LibraryPath>
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <IncludePath>C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Lib\x86;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <TreatWarningAsError>true</TreatWarningAsError>
+      <AdditionalIncludeDirectories>..\Lua\src;..\Wwise\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_MBCS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <MinimalRebuild>false</MinimalRebuild>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>../Debug;..\Wwise\Debug\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>Lua.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <TreatWarningAsError>true</TreatWarningAsError>
+      <AdditionalIncludeDirectories>..\Lua\src;C:\Program Files\Microsoft DirectX SDK %28June 2010%29\Include;..\Wwise\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_MBCS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>..\Release;C:\Program Files\Microsoft DirectX SDK %28June 2010%29\Lib\x86;..\Wwise\Profile\lib;..\Wwise\Release\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>Lua.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <GenerateMapFile>true</GenerateMapFile>
+      <MapExports>true</MapExports>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release Test|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <TreatWarningAsError>true</TreatWarningAsError>
+      <AdditionalIncludeDirectories>C:\Program Files\Audiokinetic\Wwise v2012.2.1 build 4427\SDK\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_MBCS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>C:\Program Files\Audiokinetic\Wwise v2012.2.1 build 4427\SDK\Win32_vc100\Profile\lib;C:\Program Files\Audiokinetic\Wwise v2012.2.1 build 4427\SDK\Win32_vc100\Release\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\Achievements\Source\CAchievementManager.cpp" />
+    <ClCompile Include="Source\AI\Source\AlignBehavior.cpp" />
+    <ClCompile Include="Source\AI\Source\BaseBehavior.cpp" />
+    <ClCompile Include="Source\AI\Source\BreathBehavior.cpp" />
+    <ClCompile Include="Source\AI\Source\CBehaviorManager.cpp" />
+    <ClCompile Include="Source\AI\Source\CBehaviors.cpp" />
+    <ClCompile Include="Source\AI\Source\CFSM.cpp" />
+    <ClCompile Include="Source\AI\Source\EscapeBehavior.cpp" />
+    <ClCompile Include="Source\AI\Source\ExhaustBehavior.cpp" />
+    <ClCompile Include="Source\AI\Source\FloatBehavior.cpp" />
+    <ClCompile Include="Source\AI\Source\FlockBehavior.cpp" />
+    <ClCompile Include="Source\AI\Source\GloatBehavior.cpp" />
+    <ClCompile Include="Source\AI\Source\HomingBehavior.cpp" />
+    <ClCompile Include="Source\AI\Source\HyperdashBehavior.cpp" />
+    <ClCompile Include="Source\AI\Source\HyperOrbBehavior.cpp" />
+    <ClCompile Include="Source\AI\Source\HyperSnowballBehavior.cpp" />
+    <ClCompile Include="Source\AI\Source\IdleTrapBehavior.cpp" />
+    <ClCompile Include="Source\AI\Source\MeleeBehavior.cpp" />
+    <ClCompile Include="Source\AI\Source\PanicBehavior.cpp" />
+    <ClCompile Include="Source\AI\Source\RangedBehavior.cpp" />
+    <ClCompile Include="Source\AI\Source\ResetBehavior.cpp" />
+    <ClCompile Include="Source\AI\Source\RollBehavior.cpp" />
+    <ClCompile Include="Source\AI\Source\RushBehavior.cpp" />
+    <ClCompile Include="Source\AI\Source\SnowballBehavior.cpp" />
+    <ClCompile Include="Source\AI\Source\TrapSpawnBehavior.cpp" />
+    <ClCompile Include="Source\AI\Source\WanderBehavior.cpp" />
+    <ClCompile Include="Source\Animations\Animation.cpp" />
+    <ClCompile Include="Source\Animations\AnimPlayer.cpp" />
+    <ClCompile Include="Source\Animations\Interpolator.cpp" />
+    <ClCompile Include="Source\Animations\KeyFrame.cpp" />
+    <ClCompile Include="Source\CGame.cpp" />
+    <ClCompile Include="Source\Collision\CollisionLibrary.cpp" />
+    <ClCompile Include="Source\Collision\ED2CollisionLibrary.cpp" />
+    <ClCompile Include="Source\Core\CLevel.cpp" />
+    <ClCompile Include="Source\Core\CWorldManager.cpp" />
+    <ClCompile Include="Source\Objects\AttackObject.cpp" />
+    <ClCompile Include="Source\Objects\BaseObject.cpp" />
+    <ClCompile Include="Source\Objects\CFireTrap.cpp" />
+    <ClCompile Include="Source\Objects\CIceTrap.cpp" />
+    <ClCompile Include="Source\Objects\CollidableObject.cpp" />
+    <ClCompile Include="Source\Objects\CPickupObject.cpp" />
+    <ClCompile Include="Source\Objects\MenuModelObject.cpp" />
+    <ClCompile Include="Source\Objects\Portal.cpp" />
+    <ClCompile Include="Source\Objects\Enemy.cpp" />
+    <ClCompile Include="Source\Objects\EnvironmentObject.cpp" />
+    <ClCompile Include="Source\Objects\ExplosiveEnemy.cpp" />
+    <ClCompile Include="Source\Objects\FireEnemy.cpp" />
+    <ClCompile Include="Source\Objects\IceEnemy.cpp" />
+    <ClCompile Include="Source\Objects\MeleeEnemy.cpp" />
+    <ClCompile Include="Source\Objects\ObjectManager.cpp" />
+    <ClCompile Include="Source\Objects\PlayerObject.cpp" />
+    <ClCompile Include="Source\Objects\ProjectileObject.cpp" />
+    <ClCompile Include="Source\Objects\RangedEnemy.cpp" />
+    <ClCompile Include="Source\Objects\SceneryObject.cpp" />
+    <ClCompile Include="Source\Objects\Signpost.cpp" />
+    <ClCompile Include="Source\Objects\Snowball.cpp" />
+    <ClCompile Include="Source\Objects\Spawner.cpp" />
+    <ClCompile Include="Source\Objects\Wall.cpp" />
+    <ClCompile Include="Source\Objects\WizardEnemy.cpp" />
+    <ClCompile Include="Source\Renderer\AssetManager.cpp" />
+    <ClCompile Include="Source\Renderer\Camera.cpp" />
+    <ClCompile Include="Source\Renderer\CEmitterManager.cpp" />
+    <ClCompile Include="Source\Renderer\CHUD.cpp" />
+    <ClCompile Include="Source\Renderer\DirLight.cpp" />
+    <ClCompile Include="Source\Renderer\DynamicShape.cpp" />
+    <ClCompile Include="Source\Renderer\Emitter.cpp" />
+    <ClCompile Include="Source\Renderer\Light.cpp" />
+    <ClCompile Include="Source\Renderer\Model.cpp" />
+    <ClCompile Include="Source\Renderer\PointLight.cpp" />
+    <ClCompile Include="Source\Renderer\PostProcess.cpp" />
+    <ClCompile Include="Source\Renderer\PostProcessChain.cpp" />
+    <ClCompile Include="Source\Renderer\Renderer.cpp" />
+    <ClCompile Include="Source\Renderer\RenderInstance.cpp" />
+    <ClCompile Include="Source\Renderer\RenderInstanceAnimated.cpp" />
+    <ClCompile Include="Source\Renderer\RenderInstanceAttached.cpp" />
+    <ClCompile Include="Source\Renderer\RenderInstanceParticles.cpp" />
+    <ClCompile Include="Source\Renderer\RenderTarget.cpp" />
+    <ClCompile Include="Source\Renderer\RenderThing.cpp" />
+    <ClCompile Include="Source\Renderer\View.cpp" />
+    <ClCompile Include="Source\Sound\AKIncludes\AkDefaultIOHookBlocking.cpp" />
+    <ClCompile Include="Source\Sound\AKIncludes\AkDefaultIOHookDeferred.cpp" />
+    <ClCompile Include="Source\Sound\AKIncludes\AkDefaultLowLevelIODispatcher.cpp" />
+    <ClCompile Include="Source\Sound\AKIncludes\AkFileLocationBase.cpp" />
+    <ClCompile Include="Source\Sound\AKIncludes\AkFilePackage.cpp" />
+    <ClCompile Include="Source\Sound\AKIncludes\AkFilePackageLUT.cpp" />
+    <ClCompile Include="Source\Sound\CSoundManager.cpp" />
+    <ClCompile Include="Source\States\CAchievementState.cpp" />
+    <ClCompile Include="Source\States\CConsoleState.cpp" />
+    <ClCompile Include="source\states\CControlsState.cpp" />
+    <ClCompile Include="Source\States\CCreditsState.cpp" />
+    <ClCompile Include="Source\States\CDifficultyState.cpp" />
+    <ClCompile Include="Source\States\CFadeState.cpp" />
+    <ClCompile Include="Source\States\CGameState.cpp" />
+    <ClCompile Include="Source\States\CHelpScreenState.cpp" />
+    <ClCompile Include="Source\States\CLoadState.cpp" />
+    <ClCompile Include="Source\States\CLossState.cpp" />
+    <ClCompile Include="Source\States\CMainMenuState.cpp" />
+    <ClCompile Include="Source\States\COptionsMenuState.cpp" />
+    <ClCompile Include="Source\States\CPauseState.cpp" />
+    <ClCompile Include="Source\States\CPopupState.cpp" />
+    <ClCompile Include="Source\States\CSoundOptionState.cpp" />
+    <ClCompile Include="source\states\CVideoOptionsState.cpp" />
+    <ClCompile Include="Source\States\CWinState.cpp" />
+    <ClCompile Include="Source\Util\CFontManager.cpp" />
+    <ClCompile Include="Source\Util\CInput.cpp" />
+    <ClCompile Include="Source\Util\CluaFunctions.cpp" />
+    <ClCompile Include="Source\Util\CTimer.cpp" />
+    <ClCompile Include="Source\Util\Util.cpp" />
+    <ClCompile Include="Source\WinMain.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\Achievements\Header\CAchievementManager.h" />
+    <ClInclude Include="Source\AI\Header\AlignBehavior.h" />
+    <ClInclude Include="Source\AI\Header\BaseBehavior.h" />
+    <ClInclude Include="Source\AI\Header\BreathBehavior.h" />
+    <ClInclude Include="Source\AI\Header\CBehaviorManager.h" />
+    <ClInclude Include="Source\AI\Header\CBehaviors.h" />
+    <ClInclude Include="Source\AI\Header\CFSM.h" />
+    <ClInclude Include="Source\AI\Header\EscapeBehavior.h" />
+    <ClInclude Include="Source\AI\Header\ExhaustBehavior.h" />
+    <ClInclude Include="Source\AI\Header\FloatBehavior.h" />
+    <ClInclude Include="Source\AI\Header\FlockBehavior.h" />
+    <ClInclude Include="Source\AI\Header\GloatBehavior.h" />
+    <ClInclude Include="Source\AI\Header\HomingBehavior.h" />
+    <ClInclude Include="Source\AI\Header\HyperdashBehavior.h" />
+    <ClInclude Include="Source\AI\Header\HyperOrbBehavior.h" />
+    <ClInclude Include="Source\AI\Header\HyperSnowballBehavior.h" />
+    <ClInclude Include="Source\AI\Header\IdleTrapBehavior.h" />
+    <ClInclude Include="Source\AI\Header\MeleeBehavior.h" />
+    <ClInclude Include="Source\AI\Header\PanicBehavior.h" />
+    <ClInclude Include="Source\AI\Header\RangedBehavior.h" />
+    <ClInclude Include="Source\AI\Header\ResetBehavior.h" />
+    <ClInclude Include="Source\AI\Header\RollBehavior.h" />
+    <ClInclude Include="Source\AI\Header\RushBehavior.h" />
+    <ClInclude Include="Source\AI\Header\SnowballBehavior.h" />
+    <ClInclude Include="Source\AI\Header\TrapSpawnBehavior.h" />
+    <ClInclude Include="Source\AI\Header\WanderBehavior.h" />
+    <ClInclude Include="Source\Animations\Animation.h" />
+    <ClInclude Include="Source\Animations\AnimEvent.h" />
+    <ClInclude Include="Source\Animations\AnimPlayer.h" />
+    <ClInclude Include="Source\Animations\Interpolator.h" />
+    <ClInclude Include="Source\Animations\KeyFrame.h" />
+    <ClInclude Include="Source\CGame.h" />
+    <ClInclude Include="Source\Collision\CollisionLibrary.h" />
+    <ClInclude Include="Source\Collision\ED2CollisionLibrary.h" />
+    <ClInclude Include="Source\Core\CLevel.h" />
+    <ClInclude Include="Source\Core\CWorldManager.h" />
+    <ClInclude Include="Source\Globals.h" />
+    <ClInclude Include="Source\Objects\AttackObject.h" />
+    <ClInclude Include="Source\Objects\BaseObject.h" />
+    <ClInclude Include="Source\Objects\CFireTrap.h" />
+    <ClInclude Include="Source\Objects\CIceTrap.h" />
+    <ClInclude Include="Source\Objects\CollidableObject.h" />
+    <ClInclude Include="Source\Objects\CPickupObject.h" />
+    <ClInclude Include="Source\Objects\MenuModelObject.h" />
+    <ClInclude Include="Source\Objects\Portal.h" />
+    <ClInclude Include="Source\Objects\Enemy.h" />
+    <ClInclude Include="Source\Objects\EnvironmentObject.h" />
+    <ClInclude Include="Source\Objects\ExplosiveEnemy.h" />
+    <ClInclude Include="Source\Objects\FireEnemy.h" />
+    <ClInclude Include="Source\Objects\IceEnemy.h" />
+    <ClInclude Include="Source\Objects\MeleeEnemy.h" />
+    <ClInclude Include="Source\Objects\ObjectManager.h" />
+    <ClInclude Include="Source\Objects\PlayerObject.h" />
+    <ClInclude Include="Source\Objects\ProjectileObject.h" />
+    <ClInclude Include="Source\Objects\RangedEnemy.h" />
+    <ClInclude Include="Source\Objects\SceneryObject.h" />
+    <ClInclude Include="Source\Objects\Signpost.h" />
+    <ClInclude Include="Source\Objects\Snowball.h" />
+    <ClInclude Include="Source\Objects\Spawner.h" />
+    <ClInclude Include="Source\Objects\Wall.h" />
+    <ClInclude Include="Source\Objects\WizardEnemy.h" />
+    <ClInclude Include="Source\Renderer\AssetManager.h" />
+    <ClInclude Include="Source\Renderer\Camera.h" />
+    <ClInclude Include="Source\Renderer\CEmitterManager.h" />
+    <ClInclude Include="Source\Renderer\CHUD.h" />
+    <ClInclude Include="Source\Renderer\DirLight.h" />
+    <ClInclude Include="Source\Renderer\DynamicShape.h" />
+    <ClInclude Include="Source\Renderer\Emitter.h" />
+    <ClInclude Include="Source\Renderer\Light.h" />
+    <ClInclude Include="Source\Renderer\Model.h" />
+    <ClInclude Include="Source\Renderer\PointLight.h" />
+    <ClInclude Include="Source\Renderer\PostProcess.h" />
+    <ClInclude Include="Source\Renderer\PostProcessChain.h" />
+    <ClInclude Include="Source\Renderer\Renderer.h" />
+    <ClInclude Include="Source\Renderer\RenderInstance.h" />
+    <ClInclude Include="Source\Renderer\RenderInstanceAnimated.h" />
+    <ClInclude Include="Source\Renderer\RenderInstanceAttached.h" />
+    <ClInclude Include="Source\Renderer\RenderInstanceParticles.h" />
+    <ClInclude Include="Source\Renderer\RenderTarget.h" />
+    <ClInclude Include="Source\Renderer\RenderDefinitions.h" />
+    <ClInclude Include="Source\Renderer\RenderThing.h" />
+    <ClInclude Include="Source\Renderer\View.h" />
+    <ClInclude Include="Source\Sound\AKIncludes\AkDefaultIOHookBlocking.h" />
+    <ClInclude Include="Source\Sound\AKIncludes\AkDefaultIOHookDeferred.h" />
+    <ClInclude Include="Source\Sound\AKIncludes\AkDefaultLowLevelIODispatcher.h" />
+    <ClInclude Include="Source\Sound\AKIncludes\AkFileHelpers.h" />
+    <ClInclude Include="Source\Sound\AKIncludes\AkFileLocationBase.h" />
+    <ClInclude Include="Source\Sound\AKIncludes\AkFilePackage.h" />
+    <ClInclude Include="Source\Sound\AKIncludes\AkFilePackageLowLevelIO.h" />
+    <ClInclude Include="Source\Sound\AKIncludes\AkFilePackageLowLevelIOBlocking.h" />
+    <ClInclude Include="Source\Sound\AKIncludes\AkFilePackageLowLevelIODeferred.h" />
+    <ClInclude Include="Source\Sound\AKIncludes\AkFilePackageLUT.h" />
+    <ClInclude Include="Source\Sound\AKIncludes\AkSoundEngineExports.h" />
+    <ClInclude Include="Source\Sound\AKIncludes\resource.h" />
+    <ClInclude Include="Source\Sound\AKIncludes\stdafx.h" />
+    <ClInclude Include="Source\Sound\CSoundManager.h" />
+    <ClInclude Include="Source\Sound\Wwise_IDs.h" />
+    <ClInclude Include="Source\States\CAchievementState.h" />
+    <ClInclude Include="Source\States\CConsoleState.h" />
+    <ClInclude Include="Source\States\CControlsState.h" />
+    <ClInclude Include="Source\States\CCreditsState.h" />
+    <ClInclude Include="Source\States\CDifficultyState.h" />
+    <ClInclude Include="Source\States\CFadeState.h" />
+    <ClInclude Include="Source\States\CGameState.h" />
+    <ClInclude Include="Source\States\CHelpScreenState.h" />
+    <ClInclude Include="Source\States\CLoadState.h" />
+    <ClInclude Include="Source\States\CLossState.h" />
+    <ClInclude Include="Source\States\CMainMenuState.h" />
+    <ClInclude Include="Source\States\COptionsMenuState.h" />
+    <ClInclude Include="Source\States\CPauseState.h" />
+    <ClInclude Include="Source\States\CPopupState.h" />
+    <ClInclude Include="Source\States\CSoundOptionState.h" />
+    <ClInclude Include="source\states\CVideoOptionsState.h" />
+    <ClInclude Include="Source\States\CWinState.h" />
+    <ClInclude Include="Source\States\IGameState.h" />
+    <ClInclude Include="Source\Util\CFontManager.h" />
+    <ClInclude Include="Source\Util\CInput.h" />
+    <ClInclude Include="Source\Util\CluaFunctions.h" />
+    <ClInclude Include="Source\Util\CTimer.h" />
+    <ClInclude Include="Source\Util\matrix3.h" />
+    <ClInclude Include="Source\Util\Matrix4x4.h" />
+    <ClInclude Include="Source\Util\PriorityQueue.h" />
+    <ClInclude Include="Source\Util\Util.h" />
+    <ClInclude Include="Source\Util\vec3.h" />
+    <ClInclude Include="Source\Util\vec4.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\Scripts\Commands.lua" />
+    <None Include="Resource\Scripts\Levels\BossLevel.lua" />
+    <None Include="Resource\Scripts\Levels\Section0\Level0.lua" />
+    <None Include="Resource\Scripts\Levels\Section0\Level1.lua" />
+    <None Include="Resource\Scripts\Levels\Section0\Level2.lua" />
+    <None Include="Resource\Scripts\Levels\Section0\Level3.lua" />
+    <None Include="Resource\Scripts\Levels\Section0\Level4.lua" />
+    <None Include="Resource\Scripts\Levels\Section0\Level5.lua" />
+    <None Include="Resource\Scripts\Levels\Section0\Level6.lua" />
+    <None Include="Resource\Scripts\Levels\Section0\Level7.lua" />
+    <None Include="Resource\Scripts\Levels\Section0\Level8.lua" />
+    <None Include="Resource\Scripts\Levels\Section0\Level9.lua" />
+    <None Include="Resource\Scripts\Levels\Section1\Level0.lua" />
+    <None Include="Resource\Scripts\Levels\Section1\Level1.lua" />
+    <None Include="Resource\Scripts\Levels\Section1\Level10.lua" />
+    <None Include="Resource\Scripts\Levels\Section1\Level2.lua" />
+    <None Include="Resource\Scripts\Levels\Section1\Level3.lua" />
+    <None Include="Resource\Scripts\Levels\Section1\Level4.lua" />
+    <None Include="Resource\Scripts\Levels\Section1\Level5.lua" />
+    <None Include="Resource\Scripts\Levels\Section1\Level6.lua" />
+    <None Include="Resource\Scripts\Levels\Section1\Level7.lua" />
+    <None Include="Resource\Scripts\Levels\Section1\Level8.lua" />
+    <None Include="Resource\Scripts\Levels\Section1\Level9.lua" />
+    <None Include="Resource\Scripts\Levels\Section2\Level0.lua" />
+    <None Include="Resource\Scripts\Levels\Section2\Level1.lua" />
+    <None Include="Resource\Scripts\Levels\Section2\Level2.lua" />
+    <None Include="Resource\Scripts\Levels\Section2\Level3.lua" />
+    <None Include="Resource\Scripts\Levels\Section2\Level4.lua" />
+    <None Include="Resource\Scripts\Levels\Section2\Level5.lua" />
+    <None Include="Resource\Scripts\Levels\Section2\Level6.lua" />
+    <None Include="Resource\Scripts\Levels\Section2\Level7.lua" />
+    <None Include="Resource\Scripts\Levels\Section2\Level8.lua" />
+    <None Include="Resource\Scripts\Levels\Section2\Level9.lua" />
+    <None Include="Resource\Scripts\Levels\Section3\Level0.lua" />
+    <None Include="Resource\Scripts\Levels\Section3\Level1.lua" />
+    <None Include="Resource\Scripts\Levels\Section3\Level2.lua" />
+    <None Include="Resource\Scripts\Levels\Section3\Level3.lua" />
+    <None Include="Resource\Scripts\Levels\Section3\Level4.lua" />
+    <None Include="Resource\Scripts\Levels\Section3\Level5.lua" />
+    <None Include="Resource\Scripts\Levels\Section3\Level6.lua" />
+    <None Include="Resource\Scripts\Levels\Section3\Level7.lua" />
+    <None Include="Resource\Scripts\Levels\Section3\Level8.lua" />
+    <None Include="Source\Sound\AKIncludes\AkFilePackageLowLevelIO.inl" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

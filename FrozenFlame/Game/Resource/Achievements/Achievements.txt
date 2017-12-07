@@ -1,0 +1,71 @@
+14
+7
+No Life
+38
+Collected every achievement. Congrats!
+1
+15
+Avoid and Evade
+38
+Dodge an Explosive Minion's explosion.
+1
+11
+Beast Tamer
+36
+Defeat 1 Fire Beast and 1 Ice Beast.
+1
+8
+Champion
+36
+Defeat the wizard atop the mountain.
+1
+11
+Cool-headed
+38
+Complete a section without using Rage.
+1
+23
+These Are My Angry Eyes
+32
+Finish a section with full Rage.
+1
+15
+My Secret Is...
+41
+Use Rage 5 times in a single playthrough.
+1
+24
+Don't Stand in the Fire!
+21
+Die from a fire trap.
+1
+11
+Cold as Ice
+21
+Die from an ice trap.
+1
+11
+Speedrunner
+48
+Complete a section without destroying a Spawner.
+1
+12
+Ow, My Face!
+39
+Use a fire or Ice Trap to kill a Beast.
+1
+28
+Well, that Escalated Quickly
+44
+Have a Fire or Ice Beast reach maximum size.
+1
+26
+Look at All This Change...
+20
+Collect 100 pickups.
+1
+9
+Rebounder
+22
+Deflect 5 ranged orbs.
+1

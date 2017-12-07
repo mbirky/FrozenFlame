@@ -1,0 +1,49 @@
+3				//Render Type
+1000			//number of particles
+900				//min particles
+1000				//max particles
+0				//emitter lifetime
+none		//texture
+64				//texture width
+64				//texture height	
+IceOrb				     	//model
+0.1				//modifier start scale X
+0.1				//modifier start scale Y
+0.1				//modifier start scale Z
+0.1				//modifier end scale X
+0.1				//modifier end scale Y
+0.1				//modifier end scale Z
+0					//modifier rotation X
+0					//modifier rotation Y
+0					//modifier rotation Z
+0.1			//modifier min life
+0.65			//modifier max life
+0.8				//modifier start color r
+0.8				//modifier start color g
+1				//modifier start color b
+0.351				//modifier start color a
+0.8			//modifier mid color r
+0.8			//modifier mid color g
+1			//modifier mid color b
+0.351			//modifier mid color a
+0.8				//modifier end color r
+0.8				//modifier end color g
+1				//modifier end color b
+0.251			//modifier end color a
+0			//min gravity x
+-20			//min gravity y
+0			//min gravity z
+0				//max gravity x
+-20				//max gravity y
+0				//max gravity z
+13			//max velocity x
+10			//max velocity y
+13			//max velocity z
+-5				//min velocity x
+10				//min velocity y
+-5				//min velocity z
+0.5			//range(x and z)
+1.5
+5				//Source Blend type (0-12)
+2				//Destination Blend type (0-12)
+1

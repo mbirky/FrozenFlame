@@ -1,0 +1,5 @@
+menu_font.png	// texture
+16 16		// cols, rows
+0		// first char
+255		// last char
+64 64		// width, height for default character

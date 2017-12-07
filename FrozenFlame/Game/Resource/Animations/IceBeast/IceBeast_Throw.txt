@@ -1,0 +1,11 @@
+speed_mult
+5	8
+0.2
+
+speed_mult
+8	20
+1.15
+
+speed_mult
+20	24
+0.75

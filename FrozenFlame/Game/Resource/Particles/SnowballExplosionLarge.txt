@@ -1,0 +1,49 @@
+3				//Render Type
+7			//number of particles
+4				//min particles
+7				//max particles
+0.2				//emitter lifetime
+none		//texture
+64				//texture width
+64				//texture height	
+Snowball				     	//model
+0.17			//modifier start scale X
+0.17			//modifier start scale Y
+0.17			//modifier start scale Z
+0.15				//modifier end scale X
+0.15				//modifier end scale Y
+0.15				//modifier end scale Z
+0					//modifier rotation X
+0					//modifier rotation Y
+0					//modifier rotation Z
+0.4			//modifier min life
+0.6			//modifier max life
+1.0				//modifier start color r
+1				//modifier start color g
+1				//modifier start color b
+1				//modifier start color a
+1			//modifier mid color r
+1			//modifier mid color g
+1			//modifier mid color b
+1			//modifier mid color a
+1				//modifier end color r
+1				//modifier end color g
+1				//modifier end color b
+1				//modifier end color a
+0			//min gravity x
+-30			//min gravity y
+0			//min gravity z
+0				//max gravity x
+-30				//max gravity y
+0				//max gravity z
+10			//max velocity x
+7			//max velocity y
+10			//max velocity z
+-10				//min velocity x
+7				//min velocity y
+-10				//min velocity z
+4			//range(x and z)
+4
+2				//Source Blend type (0-12)
+2				//Destination Blend type (0-12)
+1

@@ -1,0 +1,48 @@
+2						//Render Type
+70						//number of particles
+5						//min particles
+15						//max particles
+0						//emitter lifetime
+smoke_particle.png		//texture
+64						//texture width
+64						//texture height
+AttackCube					//model
+0.25						//modifier start scale X
+0.25						//modifier start scale Y
+0.25						//modifier start scale Z
+1.0						//modifier end scale X
+1.0						//modifier end scale Y
+1.0						//modifier end scale Z
+0						//modifier rotation X
+0						//modifier rotation Y
+0						//modifier rotation Z
+0						//modifier min life
+2.0						//modifier max life
+0.4						//modifier start color r
+0.4						//modifier start color g
+0.4						//modifier start color b
+0.9						//modifier start color a
+0.6						//modifier mid color r
+0.6						//modifier mid color g
+0.6						//modifier mid color b
+0.5						//modifier mid color a
+0.7						//modifier end color r
+0.7						//modifier end color g
+0.7						//modifier end color b
+0.35						//modifier end color a
+0						//min gravity x
+0						//min gravity y
+0						//min gravity z
+0						//max gravity x
+0						//max gravity y
+0						//max gravity z
+0						//velocity 1 x
+2.0						//velocity 1 y
+-0.5						//velocity 1 z
+0						//velocity 2 x
+1.5						//velocity 2 y
+-0.25						//velocity 2 z
+0						//range x
+0						//range z
+3						//Source Blend type (0-12)
+9						//Destination Blend type (0-12)
