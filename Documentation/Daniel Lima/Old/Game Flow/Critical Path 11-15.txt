@@ -1,0 +1,49 @@
+Example: 
+1. Player attacks continuously spawning melee minions to build rage
+2. Player dashes to avoid the rolling Fire Beast
+3. Player uses Ice Rage to extinguish the flames on the Fire Beast
+4. Player attacks the Fire Beast
+
+11)
+1. Player deflects ranged minion's orb, stunning him
+2. Player dashes to the first melee minion
+3. Player attacks and kills the minion
+4. Player dashes to the ranged minion
+5. Player attacks and kills the minion
+6. Player attacks and kills the other melee minion
+7. Player dashes to avoid the icicles
+8. Player pulls lever that opens the door
+
+12)
+1. Player dashes to get between the minions
+2. After the explosive minions light their bombs, player dashes into them
+3. Both explosive minions explode near the ranged minions, killing them
+4. Player kills the melee minions and build up rage
+5. Player dashes to avoid the Ice Beast's attack
+6. Player uses Fire Rage to break the Ice Beast's ice protection
+7. Player uses Fire Rage to kill the Ice Beast
+
+13)
+1. Player attacks and kills nearby melee minions
+2. Player dashes to avoid lava plumes
+3. Player deflects the ragend minion's orb, stunnig him
+4. Player uses Ice Rage to extinguish explosive minions' bombs if they're lit
+5. Player attacks and kills explosive minions
+6. Player attacks and kills ranged minion
+
+14)
+1. Player dashes to avoid icicles
+2. Player attacks to deflect ranged minions' orbs, killing them
+3. Player dashes to avoid icicles
+
+15)
+1. Player dashes into the explosive minions to knock them away
+2. Player deflects the ranged minon's orb
+3. Player attacks and kills the melee minions
+4. Player dashes to avoid the rolling Fire Beasts
+5. Player attacks and kills the ranged minion
+6. Player dashes to avoid the rolling Fire Beasts
+7. Player uses Ice Rage to extinguish explosive minions' bombs if they're lit
+8. Player uses Ice Rage to extinguish the flames on the Fire Beasts
+9. Player attacks and kills the explosive minions
+10. Player attacks and kills the Fire Beasts

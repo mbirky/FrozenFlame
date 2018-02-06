@@ -1,0 +1,25 @@
+Ice Beast scale problem
+Harder ranged minions
+Reinitialize the section when going back to a checkpoint
+Rage scaling sometimes wrong
+Showcase each enemy at a time
+Avoid chaotic combat - more control
+"Triggers" for the level
+Shadows
+Snowball coming from beast's hands
+Ranged orb going off the level problem
+Transparency problems
+More tells for the AI
+Fire guy way too fast
+Asset Pipeline + Art Request
+
+Lebo's input:
+
+shadows
+where the snowballs come out of ice beast
+check design for ranged about other types of separations (moats or cliffs etc.)
+ai tells
+speed of ranged increased
+check ranged destruction cases
+speed of fire beast too fast
+look at function potentially wrong causing skewing and enemies not looking at what they are supposed to

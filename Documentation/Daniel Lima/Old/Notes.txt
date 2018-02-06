@@ -1,0 +1,15 @@
+Berserker PPT Notes
+- Yeti and Magma Beast have the same behavior... Maybe we could change one of them a little bit later.
+- We don't talk about the Rage system at all on the power point.
+- "Consisting of"s in the Where slides.
+- No text on HUD slide.
+
+Boost PPT Notes
+- Melee is not one of the actions, however we comment on it a bunch of times. I think the teacher might ask about that.
+- What does "Grunt" means in the enemies slides? A sound?
+- Melee control present on keyboard slide but not on controller slide.
+- I didn't know what game to use for the art style so I just used Monday Night Combat.
+- Recap says it occurs within a virtual world but it doesn't seem to much like that on the "Where" slides.
+
+General
+- Game Flow for both games is the same. Is that right?

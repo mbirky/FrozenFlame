@@ -1,0 +1,10 @@
+- Better effect for rage
+- Shadows flickering
+- Feedback for traps
+- Wandering code - don't wander to walls
+- Animation problems (I'll check that this weekend)
+- Too much red for dying
+- Pop the crystal after destroying it
+- Ranged minions don't face you
+- Reason why you can't kill the wizard (feedback)
+- Boss fucked up when you reset

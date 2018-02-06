@@ -1,0 +1,54 @@
+Concept Vision
+Player attacking enemies
+Player breaking objects
+Player deflecting projectiles
+Player dashing, avoiding an explosion
+Player dashing, pushing enemies back
+Player grabbing an enemy, then throwing it
+Player pulling a lever
+Concept of enemy types, melee minion, ranged minion, armored minion, exploding minion
+Front-facing main character, with weapon in hand
+
+Description of character: Tall and lean male, shoulder-length black hair wearing chain armor(Model after Aragorn from Lord of the Rings)
+
+List of enemies:
+Melee Blob
+Ranged Blob
+Explosive Minion
+Yeti
+Magma Beast
+
+Areas to draw for the pitch powerpoint:
+2 areas in the ice realm
+2 areas in the lava realm
+BOTH with the player doing an action from the camera's perspective
+
+Level Layout: Showing an overhead of the player going from the ice realm to the lava realm to the castle.
+Art of the evil wizard
+
+First Pass on our HUD(two bars, one for health(green) and one for rage(red))
+
+Wizard using orb attack on the player(Wizard raising his staff overhead, then pointing it at the player and launching an orb), from the camera's perspective
+
+Wizard using lava plume attack on the player(Wizard raises both arms into the air, then creates a red spot under the player, which erupts later), from the camera's perspective
+
+Wizard summoning minions to his aid(Wizard slams his staff downwards, opening a gate from which minions spawn forth), from the camera's perspective.
+
+
+FPS Art List
+Player character(Muscular male wearing body armor and carrying an assault rifle)
+Player shooting enemies(first-person)
+Player jumping to the side(first-person?)
+Player sprinting forward(first-person)
+
+Enemy weilding an assault rifle, enemy weidling a shotgun, enemy weilding a sniper rifle
+Urban arena environment(from the player's perspective)
+Forest arena environment(from the player's perspective)
+Colliseum arena environment(Hexagon arena, completely flat, obstacles in the middle, from the player's perspective)
+
+Level Layout: Showing an overhead of the player going from the urban arena to the forest arena to the colliseum arena(have a few circles on each area for spawn points)
+
+First pass on HUD: One bar for health(Green), one bar for Boost(Beige/Yellow) in the upper-left hand corner, Weapon and Ammo in the lower right hand portion
+
+
+

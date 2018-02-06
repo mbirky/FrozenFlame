@@ -1,0 +1,53 @@
+Game Vision
+- I think we need a better picture in here that shows exactly how the game would look like so that the GP staff can have a better idea of it. I mean exact camera angle and position, user UI, etc.
+
+Front-end Flowchart
+- Do we need to demonstrate how to get to and to exit the menu screens?
+- Is there anything else we would want to include on the menu? Maybe high scores?
+
+Front-end User Interface
+- We should discuss how our menus are really going to look like.
+- Are we supposed to describe the details for each option screen?
+- Video Options - Do we need anything else besides Gamma?
+- Audio Options - Do we need anything else?
+- Control Options - Is it supposed to be like that? Do we really need it at all?
+- Credits - Does everybody agree with how this is?
+
+Loading Screens
+- Our loading screen should show images that demonstrate game actions fading in and out with the bar below them.
+
+In-game Flowchart
+- Instead of "If lives" and then "else" I think it's a little easier to understand if we have "Remaining Lives" and two arrows with "Yes" and "No". Instead of going straight to the Main Menu when the player dies we should show some kind of Game Over screen.
+- The way "w/s" is in there is a little confusing.
+- Inconsistency between "Pause Menu" and "Paused State".
+- Maybe we should explain what the Controls, Video and Sound options are for the Pause Menu. The player may not be able to change all of the regular options in-game, or maybe he will have to restart the game after changing some.
+- We should probably explain somewhere what happens if the player chooses to go back to the Main Menu, does he loose all his progress or he will come back on the last checkpoint?
+- Actually, we should probably explain the checkpoints somewhere as well, if we will have them. Otherwise what happens when the player looses a life?
+- How can the player acquire a new life?
+
+Player Characters
+- One-handed sword? And then it's 2-handed on the table.
+- Maybe we should change the word "switch".
+- Rod probably doesn't know what Nodachi means, maybe we should put a "*" there and a definition/picture below.
+- When we explain Rage in detail on the doc we need to make sure it's clear that there is only ONE rage meter that improves both attacks.
+- Concept: Needs art for the other sides.
+- Scale: Needs art.
+- Attributes Combo explanation: What happens if the player presses the attack button again while the first attack animation is being played? Would he start the second attack already? Would there be any difference on the damage dealt? This paragraph also misses the explanation for both hits for the Fire Attack.
+- Actions + Animations: Make sure we explain that "J" and "K" will directly attack with the corresponding element instead of toggling the sword or something.
+	- What happens if we only press the space bar?
+	- Is the "Death" part really necessary? If it is, we need more details I think.
+- Props: Need concepts for the sword itself, need attributes for them
+- Effects: What does "Release" mean?
+	- Will there be any effect for the dash like some kind of trail?
+
+
+Non-playable characters
+- Maybe we should explain the states of Fire, Heat, Frost and Frozen in more detail, like, for how long does the character stays on those states, how much damage over time does burn deal, in the panicked state what is the minion doing exactly and for how long, etc.
+- Not sure if it's good to have the unit speed up on the "Heat" state since that could represent a bigger thread to the player.
+- Missing consistency on the state names. In some places it's "Chilled", in others it's "Frost", etc.
+- We should make sure everybody understand the minions' sizes. According to the doc the melee minion will be 1/3 of the player size but our storyboard images are not consistent to that, besides I think I heard someone say that the minion would be the same size as the character. I prefer a small size like the one explained on the doc, but let's just see what everybody is thinking.
+- I think everywhere there is a 1xx cm value we should change to 1.x m.
+- Ranged minions range could be slightly bigger. I think their Ice orb shouldn't stun the player but just slow him instead.
+- I think the Wizard should have more health than 3 times the Fire/Ice Beasts.
+	- For his height we should put the height on his last state as well
+- Actions + Animations: Wizard - Missing knockback attack
